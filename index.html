@@ -51,7 +51,7 @@
 
 //Get Countries From Json File
 const searchcountry = async searchBox => {
-  const res = await fetch('eng-sat.json');
+  const res = await fetch('https://raw.githubusercontent.com/Prasanta-Hembram/Santali-Dictionary-Quick-Search/main/eng-sat.json');
   const countries = await res.json();
 
   //Get Entered Data
