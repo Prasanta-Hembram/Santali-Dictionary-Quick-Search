@@ -1,61 +1,4914 @@
-[{
-		"eng": "hair",
-		"sat": "ᱩᱵᱽ"
+[
+	{
+	 "eng": "hair",
+	 "sat": "ᱩᱵᱽ"
 	},
 	{
-		"eng": "head",
-		"sat": "ᱵᱚᱷᱚᱜ"
+	 "eng": "head",
+	 "sat": "ᱵᱚᱷᱚᱜ"
 	},
 	{
-		"eng": "skull",
-		"sat": "ᱠᱷᱟᱯᱨᱤ"
+	 "eng": "skull",
+	 "sat": "ᱠᱷᱟᱯᱨᱤ"
 	},
 	{
-		"eng": "spinal cord",
-		"sat": "ᱵᱤᱥᱤᱡᱟᱲ"
+	 "eng": "spinal cord",
+	 "sat": "ᱵᱤᱥᱤᱡᱟᱲ"
 	},
 	{
-		"eng": "back of head",
-		"sat": "ᱛᱚᱛᱠᱟ"
+	 "eng": "back of head",
+	 "sat": "ᱛᱚᱛᱠᱟ"
 	},
 	{
-		"eng": "brain",
-		"sat": "ᱦᱟᱛᱟᱲ, ᱵᱷᱮᱡᱟ"
+	 "eng": "brain",
+	 "sat": "ᱦᱟᱛᱟᱲ, ᱵᱷᱮᱡᱟ"
 	},
 	{
-		"eng": "forehead",
-		"sat": "ᱢᱚᱞᱚᱝ"
+	 "eng": "forehead",
+	 "sat": "ᱢᱚᱞᱚᱝ"
 	},
 	{
-		"eng": "face",
-		"sat": "ᱢᱚᱲᱟ"
+	 "eng": "face",
+	 "sat": "ᱢᱚᱲᱟ"
 	},
 	{
-		"eng": "eye",
-		"sat": "ᱢᱮᱫ"
+	 "eng": "eye",
+	 "sat": "ᱢᱮᱫ"
 	},
 	{
-		"eng": "eyelid",
-		"sat": "ᱢᱮᱫ ᱠᱩᱴᱤ"
+	 "eng": "eyelid",
+	 "sat": "ᱢᱮᱫ ᱠᱩᱴᱤ"
 	},
 	{
-		"eng": "nose",
-		"sat": "ᱢᱩ"
+	 "eng": "nose",
+	 "sat": "ᱢᱩ"
 	},
 	{
-		"eng": "cheek",
-		"sat": "ᱛᱷᱚᱛᱱᱟ"
+	 "eng": "cheek",
+	 "sat": "ᱛᱷᱚᱛᱱᱟ"
 	},
 	{
-		"eng": "ear",
-		"sat": "ᱞᱩᱛᱩᱨ"
+	 "eng": "ear",
+	 "sat": "ᱞᱩᱛᱩᱨ"
 	},
 	{
-		"eng": "mouth",
-		"sat": "ᱢᱚᱪᱟ"
+	 "eng": "mouth",
+	 "sat": "ᱢᱚᱪᱟ"
 	},
 	{
-		"eng": "lip",
-		"sat": "ᱞᱩᱴᱤ"
+	 "eng": "lip",
+	 "sat": "ᱞᱩᱴᱤ"
+	},
+	{
+	 "eng": "palate",
+	 "sat": "ᱛᱟ.ᱨᱩ"
+	},
+	{
+	 "eng": "tooth",
+	 "sat": "ᱰᱟᱴᱟ"
+	},
+	{
+	 "eng": "tongue",
+	 "sat": "ᱟᱞᱟᱝ"
+	},
+	{
+	 "eng": "neck",
+	 "sat": "ᱦᱚᱴᱚᱜᱽ"
+	},
+	{
+	 "eng": "shoulder",
+	 "sat": "ᱛᱟᱨᱮᱱ"
+	},
+	{
+	 "eng": "arm",
+	 "sat": "ᱥᱚᱯᱟ"
+	},
+	{
+	 "eng": "skin",
+	 "sat": "ᱦᱟᱨᱛᱟ"
+	},
+	{
+	 "eng": "hand",
+	 "sat": "ᱛᱤ"
+	},
+	{
+	 "eng": "elbow",
+	 "sat": "ᱢᱚᱠᱟ"
+	},
+	{
+	 "eng": "palm",
+	 "sat": "ᱛᱤᱷ ᱛᱟᱞᱠᱷᱟ"
+	},
+	{
+	 "eng": "finger",
+	 "sat": "ᱠᱟ.ᱴᱩᱵ"
+	},
+	{
+	 "eng": "nail",
+	 "sat": "ᱨᱟᱢᱟ"
+	},
+	{
+	 "eng": "thumb",
+	 "sat": "ᱮᱸᱜᱟ ᱠᱟ.ᱴᱩᱵ"
+	},
+	{
+	 "eng": "panter",
+	 "sat": "ᱩᱫᱩᱜ ᱠᱟ.ᱴᱩᱵ"
+	},
+	{
+	 "eng": "middle finger",
+	 "sat": "ᱥᱤᱫ ᱠᱟ.ᱴᱩᱵ"
+	},
+	{
+	 "eng": "ring finger",
+	 "sat": "ᱵᱟᱯᱞᱟ ᱠᱟ.ᱴᱩᱵᱽ"
+	},
+	{
+	 "eng": "little finger",
+	 "sat": "ᱦᱩᱰᱤᱧ ᱠᱟ.ᱴᱩᱵ"
+	},
+	{
+	 "eng": "chest",
+	 "sat": "ᱠᱚᱲᱟᱢ"
+	},
+	{
+	 "eng": "lungs",
+	 "sat": "ᱵᱚᱨᱚ"
+	},
+	{
+	 "eng": "heart",
+	 "sat": "ᱤᱱ"
+	},
+	{
+	 "eng": "navel",
+	 "sat": "ᱵᱩᱠᱟ."
+	},
+	{
+	 "eng": "back",
+	 "sat": "ᱫᱮᱭᱟ"
+	},
+	{
+	 "eng": "rump",
+	 "sat": "ᱰᱩᱵᱷᱤ"
+	},
+	{
+	 "eng": "stomach",
+	 "sat": "ᱞᱟᱡᱽ"
+	},
+	{
+	 "eng": "waist",
+	 "sat": "ᱰᱟᱸᱰᱟ"
+	},
+	{
+	 "eng": "genital",
+	 "sat": "ᱢᱩᱛᱩ"
+	},
+	{
+	 "eng": "buttock",
+	 "sat": "ᱰᱮᱠᱮ"
+	},
+	{
+	 "eng": "bone",
+	 "sat": "ᱡᱟᱝ"
+	},
+	{
+	 "eng": "meat",
+	 "sat": "ᱡᱤᱞ"
+	},
+	{
+	 "eng": "blood",
+	 "sat": "ᱢᱟᱭᱟᱢ"
+	},
+	{
+	 "eng": "thigh",
+	 "sat": "ᱵᱩᱞᱩ, ᱫᱷᱟᱲᱟ"
+	},
+	{
+	 "eng": "knee",
+	 "sat": "ᱴᱷᱤᱴᱲᱟᱜ, ᱜᱚᱱᱴᱷᱮ"
+	},
+	{
+	 "eng": "foot",
+	 "sat": "ᱡᱟᱝᱜᱟ"
+	},
+	{
+	 "eng": "heel",
+	 "sat": "ᱤᱲᱤ"
+	},
+	{
+	 "eng": "feet",
+	 "sat": "ᱡᱟᱝᱜᱟ ᱛᱷᱚᱯᱮ"
+	},
+	{
+	 "eng": "leg",
+	 "sat": "ᱠᱟᱴᱟ"
+	},
+	{
+	 "eng": "father",
+	 "sat": "ᱵᱟᱵᱟ"
+	},
+	{
+	 "eng": "mother",
+	 "sat": "ᱟᱭᱳ"
+	},
+	{
+	 "eng": "uncle",
+	 "sat": "ᱠᱟᱠᱟ"
+	},
+	{
+	 "eng": "aunt",
+	 "sat": "ᱠᱟ.ᱠᱤ"
+	},
+	{
+	 "eng": "grand father",
+	 "sat": "ᱜᱚᱲᱚᱢ ᱦᱟᱲᱟᱢ"
+	},
+	{
+	 "eng": "grand mother",
+	 "sat": "ᱜᱚᱲᱚᱢ ᱵᱩᱲᱷᱤ"
+	},
+	{
+	 "eng": "son in law",
+	 "sat": "ᱡᱟᱶᱟᱭ ᱜᱚᱢᱠᱮ"
+	},
+	{
+	 "eng": "friend",
+	 "sat": "ᱜᱟᱛᱮ"
+	},
+	{
+	 "eng": "maternal grandfather",
+	 "sat": "ᱜᱚᱲᱚᱢ ᱦᱚᱲᱟᱢ"
+	},
+	{
+	 "eng": "maternal grandmother",
+	 "sat": "ᱜᱚᱲᱚᱢ ᱵᱩᱲᱷᱤ"
+	},
+	{
+	 "eng": "husband",
+	 "sat": "ᱡᱟᱶᱟᱭ"
+	},
+	{
+	 "eng": "daughter",
+	 "sat": "ᱵᱤᱴᱤ"
+	},
+	{
+	 "eng": "son",
+	 "sat": "ᱵᱮᱴᱟ"
+	},
+	{
+	 "eng": "love",
+	 "sat": "ᱫᱩᱞᱟ.ᱲ"
+	},
+	{
+	 "eng": "sister",
+	 "sat": "ᱵᱚᱠᱚᱧ ᱠᱩᱲᱤ"
+	},
+	{
+	 "eng": "brother",
+	 "sat": "ᱵᱚᱭᱦᱟ"
+	},
+	{
+	 "eng": "guest",
+	 "sat": "ᱯᱮᱲᱟ"
+	},
+	{
+	 "eng": "teacher",
+	 "sat": "ᱢᱟᱪᱮᱛ"
+	},
+	{
+	 "eng": "preceptor",
+	 "sat": "ᱜᱩᱨᱩ"
+	},
+	{
+	 "eng": "sister in law",
+	 "sat": "ᱤᱨᱤᱞ ᱠᱩᱲᱤ (ᱥᱟᱞᱤ)"
+	},
+	{
+	 "eng": "sister in law",
+	 "sat": "ᱤᱨᱤᱞ ᱠᱩᱲᱤ (ᱱᱱᱚᱫ)"
+	},
+	{
+	 "eng": "sister in law",
+	 "sat": "ᱤᱨᱤᱞ ᱠᱩᱲᱤ (ᱫᱮᱣᱨᱟᱱᱤ)"
+	},
+	{
+	 "eng": "maternal uncle",
+	 "sat": "ᱢᱟᱢᱟ"
+	},
+	{
+	 "eng": "maternal aunt",
+	 "sat": "ᱢᱟᱢᱤ"
+	},
+	{
+	 "eng": "mother's sister",
+	 "sat": "ᱠᱟ.ᱠᱤ"
+	},
+	{
+	 "eng": "pupil",
+	 "sat": "ᱟᱪᱮᱛ"
+	},
+	{
+	 "eng": "own",
+	 "sat": "ᱱᱤᱡᱟ.ᱨ"
+	},
+	{
+	 "eng": "father in law",
+	 "sat": "ᱦᱚᱧᱦᱟᱨ ᱵᱟᱵᱟ"
+	},
+	{
+	 "eng": "mother in law",
+	 "sat": "ᱦᱚᱧᱦᱟᱨ ᱟᱭᱳ"
+	},
+	{
+	 "eng": "relative",
+	 "sat": "ᱱᱤᱡᱟ.ᱨ ᱯᱮᱲᱟ"
+	},
+	{
+	 "eng": "step father",
+	 "sat": "ᱠᱟᱴ ᱵᱟᱵᱟ"
+	},
+	{
+	 "eng": "step mother",
+	 "sat": "ᱪᱷᱩᱴᱠᱤ ᱟᱭᱳ"
+	},
+	{
+	 "eng": "step brother",
+	 "sat": "ᱪᱷᱩᱴᱠᱤ ᱵᱚᱠᱚᱧ"
+	},
+	{
+	 "eng": "step sister",
+	 "sat": "ᱪᱷᱩᱴᱠᱤ ᱵᱚᱠᱚᱧ ᱠᱩᱲᱤ"
+	},
+	{
+	 "eng": "step daughter",
+	 "sat": "ᱪᱷᱩᱴᱠᱤ ᱵᱚᱠᱚᱧ ᱮᱨᱟ"
+	},
+	{
+	 "eng": "step son",
+	 "sat": "ᱪᱷᱩᱴᱠᱤ ᱦᱚᱯᱚᱱ"
+	},
+	{
+	 "eng": "maternal sister",
+	 "sat": "ᱦᱤᱞᱤ"
+	},
+	{
+	 "eng": "sea shell",
+	 "sat": "ᱠᱟᱹᱣᱰᱤ ᱮᱝᱜᱟ"
+	},
+	{
+	 "eng": "puja",
+	 "sat": "ᱯᱩᱡᱟᱹ"
+	},
+	{
+	 "eng": "temple",
+	 "sat": "ᱢᱚᱱᱫᱤᱨ"
+	},
+	{
+	 "eng": "statue",
+	 "sat": "ᱢᱩᱨᱛᱤ"
+	},
+	{
+	 "eng": "black",
+	 "sat": "ᱦᱮᱸᱫᱮ"
+	},
+	{
+	 "eng": "blue",
+	 "sat": "ᱞᱤᱞ"
+	},
+	{
+	 "eng": "red",
+	 "sat": "ᱟᱨᱟᱜ"
+	},
+	{
+	 "eng": "green",
+	 "sat": "ᱦᱟ.ᱨᱤᱭᱟ.ᱲ"
+	},
+	{
+	 "eng": "white",
+	 "sat": "ᱯᱩᱸᱰ"
+	},
+	{
+	 "eng": "yellow",
+	 "sat": "ᱥᱟᱥᱟᱝ"
+	},
+	{
+	 "eng": "brown",
+	 "sat": "ᱢᱟᱴᱤᱭᱟᱲ"
+	},
+	{
+	 "eng": "orange",
+	 "sat": "ᱜᱮᱨᱩᱟ"
+	},
+	{
+	 "eng": "brinjal",
+	 "sat": "ᱵᱮᱱᱜᱩᱱᱤ"
+	},
+	{
+	 "eng": "grain",
+	 "sat": "ᱦᱩᱲᱩ"
+	},
+	{
+	 "eng": "pickle",
+	 "sat": "ᱟᱪᱟᱨ"
+	},
+	{
+	 "eng": "semolina",
+	 "sat": "ᱥᱩᱡᱤ"
+	},
+	{
+	 "eng": "flour",
+	 "sat": "ᱚᱴᱟ"
+	},
+	{
+	 "eng": "comfit",
+	 "sat": "ᱤᱞᱟ.ᱭᱪᱤ"
+	},
+	{
+	 "eng": "coffee",
+	 "sat": "ᱛᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱪᱟᱭ"
+	},
+	{
+	 "eng": "milk",
+	 "sat": "ᱛᱚᱣᱟ"
+	},
+	{
+	 "eng": "ice-cream",
+	 "sat": "ᱮᱥᱠᱨᱮᱢ"
+	},
+	{
+	 "eng": "wheat",
+	 "sat": "ᱜᱩᱦᱩᱢ"
+	},
+	{
+	 "eng": "ghee",
+	 "sat": "ᱤᱛᱤᱞ ᱥᱩᱱᱩᱢ"
+	},
+	{
+	 "eng": "sauce",
+	 "sat": "ᱪᱚᱴᱱᱤ"
+	},
+	{
+	 "eng": "gram",
+	 "sat": "ᱪᱟᱱᱟ\/ᱪᱷᱚᱞᱟ"
+	},
+	{
+	 "eng": "rice",
+	 "sat": "ᱪᱟᱣᱞᱮ"
+	},
+	{
+	 "eng": "tea",
+	 "sat": "ᱪᱟᱭ"
+	},
+	{
+	 "eng": "sugar",
+	 "sat": "ᱪᱤᱱᱤ"
+	},
+	{
+	 "eng": "cheese",
+	 "sat": "ᱯᱟ.ᱱᱤᱨ"
+	},
+	{
+	 "eng": "vegetables",
+	 "sat": "ᱩᱛᱩ"
+	},
+	{
+	 "eng": "oil",
+	 "sat": "ᱥᱩᱱᱩᱢ"
+	},
+	{
+	 "eng": "pulse",
+	 "sat": "ᱫᱟ.ᱞ"
+	},
+	{
+	 "eng": "tomato sauce",
+	 "sat": "ᱵᱤᱞᱟ.ᱛᱤ ᱪᱟᱴᱱᱤ"
+	},
+	{
+	 "eng": "ice",
+	 "sat": "ᱵᱚᱨᱚᱯᱷ"
+	},
+	{
+	 "eng": "biscuit",
+	 "sat": "ᱵᱤᱥᱠᱩᱴ"
+	},
+	{
+	 "eng": "maiz",
+	 "sat": "ᱡᱚᱱᱚᱲᱟ"
+	},
+	{
+	 "eng": "meat",
+	 "sat": "ᱡᱤᱞ"
+	},
+	{
+	 "eng": "beef",
+	 "sat": "ᱰᱟᱜᱽᱨᱤ ᱡᱤᱞ"
+	},
+	{
+	 "eng": "mutton",
+	 "sat": "ᱢᱮᱨᱚᱢ ᱡᱤᱞ"
+	},
+	{
+	 "eng": "pork",
+	 "sat": "ᱥᱩᱠᱨᱤ ᱡᱤᱞ"
+	},
+	{
+	 "eng": "sugar candy",
+	 "sat": "ᱢᱤᱥᱨᱤ ᱪᱤᱱᱤ"
+	},
+	{
+	 "eng": "maida",
+	 "sat": "ᱢᱟᱭᱫᱟ"
+	},
+	{
+	 "eng": "mustard",
+	 "sat": "ᱛᱩᱲᱤ"
+	},
+	{
+	 "eng": "bread",
+	 "sat": "ᱧᱤᱸᱫᱟ ᱫᱟᱠᱟ"
+	},
+	{
+	 "eng": "syrup",
+	 "sat": "ᱥᱚᱨᱵᱚᱛ"
+	},
+	{
+	 "eng": "wine",
+	 "sat": "ᱯᱟ.ᱨᱣᱟ"
+	},
+	{
+	 "eng": "honey",
+	 "sat": "ᱧᱮᱸᱞᱮᱨᱟᱥᱟ"
+	},
+	{
+	 "eng": "mustard oil",
+	 "sat": "ᱛᱩᱲᱤ ᱥᱩᱱᱩᱢ"
+	},
+	{
+	 "eng": "apple",
+	 "sat": "ᱥᱮᱣᱚ"
+	},
+	{
+	 "eng": "banana",
+	 "sat": "ᱠᱟᱭᱨᱟ"
+	},
+	{
+	 "eng": "carrot",
+	 "sat": "ᱟᱨᱟᱜ ᱢᱩᱞᱟ"
+	},
+	{
+	 "eng": "cashew",
+	 "sat": "ᱵᱤᱞᱟ.ᱛᱤ ᱥᱷᱚᱥᱷᱚ"
+	},
+	{
+	 "eng": "date",
+	 "sat": "ᱠᱷᱟ.ᱡᱩᱨ"
+	},
+	{
+	 "eng": "grape",
+	 "sat": "ᱟᱸᱜᱩᱨ"
+	},
+	{
+	 "eng": "lychee",
+	 "sat": "ᱞᱤᱪᱩ"
+	},
+	{
+	 "eng": "mango",
+	 "sat": "ᱩᱞ"
+	},
+	{
+	 "eng": "orange",
+	 "sat": "ᱠᱚᱢᱞᱟ, ᱡᱟ.ᱢᱵᱤᱨ"
+	},
+	{
+	 "eng": "pomegranate",
+	 "sat": "ᱟᱱᱟᱨ"
+	},
+	{
+	 "eng": "tamarind",
+	 "sat": "ᱡᱚᱡᱚ ᱡᱚ"
+	},
+	{
+	 "eng": "watermelon",
+	 "sat": "ᱫᱟᱜᱠᱚᱦᱲᱟ"
+	},
+	{
+	 "eng": "ice",
+	 "sat": "ᱵᱚᱨᱚᱯᱷ"
+	},
+	{
+	 "eng": "pickle",
+	 "sat": "ᱟᱪᱟᱨ"
+	},
+	{
+	 "eng": "milk",
+	 "sat": "ᱛᱚᱣᱟ"
+	},
+	{
+	 "eng": "sugar",
+	 "sat": "ᱪᱤᱱᱤ"
+	},
+	{
+	 "eng": "cheese",
+	 "sat": "ᱯᱚᱱᱤᱨ"
+	},
+	{
+	 "eng": "biscuit",
+	 "sat": "ᱵᱤᱥᱠᱩᱴ"
+	},
+	{
+	 "eng": "sugar candy",
+	 "sat": "ᱢᱤᱥᱨᱤ ᱪᱤᱱᱤ"
+	},
+	{
+	 "eng": "syrup",
+	 "sat": "ᱥᱚᱨᱵᱚᱛ"
+	},
+	{
+	 "eng": "peacock",
+	 "sat": "ᱢᱟᱨᱟᱜ"
+	},
+	{
+	 "eng": "parrot",
+	 "sat": "ᱢᱤᱨᱩ"
+	},
+	{
+	 "eng": "crow",
+	 "sat": "ᱠᱟ.ᱦᱩ"
+	},
+	{
+	 "eng": "pigeon",
+	 "sat": "ᱯᱟᱨᱣᱟ"
+	},
+	{
+	 "eng": "myna",
+	 "sat": "ᱠᱤᱥᱱᱤ"
+	},
+	{
+	 "eng": "sparrow",
+	 "sat": "ᱞᱮᱴᱠᱟ ᱪᱮᱸᱬᱮ"
+	},
+	{
+	 "eng": "eagle",
+	 "sat": "ᱠᱩᱲᱤᱫ"
+	},
+	{
+	 "eng": "owl",
+	 "sat": "ᱠᱚᱡᱚᱨ"
+	},
+	{
+	 "eng": "cock",
+	 "sat": "ᱥᱤᱢ ᱥᱟ.ᱰᱤ"
+	},
+	{
+	 "eng": "hen",
+	 "sat": "ᱥᱤᱢ ᱮᱸᱜᱟ"
+	},
+	{
+	 "eng": "duck",
+	 "sat": "ᱜᱮᱲᱮ"
+	},
+	{
+	 "eng": "swan",
+	 "sat": "ᱢᱟᱨᱟᱝ ᱜᱮᱰᱮ"
+	},
+	{
+	 "eng": "vulture",
+	 "sat": "ᱜᱤᱫᱤ"
+	},
+	{
+	 "eng": "potato",
+	 "sat": "ᱟ.ᱞᱩ"
+	},
+	{
+	 "eng": "cauliflower",
+	 "sat": "ᱵᱟᱦᱟ ᱠᱩᱵᱤ"
+	},
+	{
+	 "eng": "cabbage",
+	 "sat": "ᱯᱚᱴᱚᱢ ᱠᱩᱵᱤ"
+	},
+	{
+	 "eng": "carrot",
+	 "sat": "ᱜᱟᱡᱚᱨ"
+	},
+	{
+	 "eng": "cucumber",
+	 "sat": "ᱛᱟᱦᱮᱨ"
+	},
+	{
+	 "eng": "brinjal",
+	 "sat": "ᱰᱮᱸᱜᱟᱲ"
+	},
+	{
+	 "eng": "onion",
+	 "sat": "ᱯᱮᱭᱟᱡ"
+	},
+	{
+	 "eng": "pea",
+	 "sat": "ᱢᱚᱴᱚᱨ ᱪᱷᱚᱞᱟ"
+	},
+	{
+	 "eng": "bitter gourd",
+	 "sat": "ᱠᱟᱨᱞᱟ"
+	},
+	{
+	 "eng": "raddish",
+	 "sat": "ᱡᱩᱞᱟ."
+	},
+	{
+	 "eng": "tomato",
+	 "sat": "ᱵᱤᱞᱟ.ᱛᱤ"
+	},
+	{
+	 "eng": "bottle gourd",
+	 "sat": "ᱦᱚᱛᱚᱫ"
+	},
+	{
+	 "eng": "ginger",
+	 "sat": "ᱚᱫᱟ"
+	},
+	{
+	 "eng": "spinach",
+	 "sat": "ᱯᱟᱞᱚᱱ ᱟᱲᱟᱜ"
+	},
+	{
+	 "eng": "turnip",
+	 "sat": "ᱟᱨᱟᱜ ᱢᱩᱞᱟ."
+	},
+	{
+	 "eng": "chilli",
+	 "sat": "ᱢᱟ.ᱨᱤᱪ"
+	},
+	{
+	 "eng": "lady finger",
+	 "sat": "ᱵᱷᱮᱰᱣᱟ"
+	},
+	{
+	 "eng": "mint",
+	 "sat": "ᱯᱩᱫᱱᱟ."
+	},
+	{
+	 "eng": "papaya",
+	 "sat": "ᱡᱟᱲᱟ"
+	},
+	{
+	 "eng": "coriender",
+	 "sat": "ᱢᱚᱥᱞᱟ ᱥᱟᱠᱟᱢ"
+	},
+	{
+	 "eng": "jack fruit",
+	 "sat": "ᱜᱷᱟᱱᱴᱟᱲ"
+	},
+	{
+	 "eng": "panther",
+	 "sat": "ᱪᱤᱛᱟ"
+	},
+	{
+	 "eng": "lion",
+	 "sat": "ᱠᱟᱴᱟᱣᱟ ᱛᱟ.ᱨᱩᱵ"
+	},
+	{
+	 "eng": "tiger",
+	 "sat": "ᱛᱟ.ᱨᱩᱵ"
+	},
+	{
+	 "eng": "boar",
+	 "sat": "ᱵᱤᱨ ᱥᱩᱠᱨᱤ"
+	},
+	{
+	 "eng": "bear",
+	 "sat": "ᱵᱟᱱᱟ"
+	},
+	{
+	 "eng": "monkey",
+	 "sat": "ᱦᱟ.ᱬᱩ"
+	},
+	{
+	 "eng": "gorilla",
+	 "sat": "ᱵᱤᱨᱦᱚᱲ"
+	},
+	{
+	 "eng": "elephant",
+	 "sat": "ᱦᱟ.ᱛᱤ"
+	},
+	{
+	 "eng": "deer",
+	 "sat": "ᱡᱤᱞ"
+	},
+	{
+	 "eng": "rabbit",
+	 "sat": "ᱠᱩᱞᱟ.ᱭ"
+	},
+	{
+	 "eng": "fox",
+	 "sat": "ᱛᱩᱭᱩ"
+	},
+	{
+	 "eng": "hyena",
+	 "sat": "ᱦᱟᱰᱜᱟᱨ"
+	},
+	{
+	 "eng": "fawn",
+	 "sat": "ᱡᱤᱞ ᱦᱤᱡ ᱜᱤᱫᱨᱟ."
+	},
+	{
+	 "eng": "squirrel",
+	 "sat": "ᱛᱩᱲ"
+	},
+	{
+	 "eng": "rhinoceros",
+	 "sat": "ᱫᱟᱜ ᱦᱟ.ᱛᱤ"
+	},
+	{
+	 "eng": "horse",
+	 "sat": "ᱥᱟᱫᱚᱢ"
+	},
+	{
+	 "eng": "cat",
+	 "sat": "ᱯᱩᱥᱤ"
+	},
+	{
+	 "eng": "ass",
+	 "sat": "ᱜᱟᱫᱷᱟ"
+	},
+	{
+	 "eng": "sheep",
+	 "sat": "ᱵᱷᱤᱰᱤ"
+	},
+	{
+	 "eng": "camel",
+	 "sat": "ᱩᱸᱴ"
+	},
+	{
+	 "eng": "dog",
+	 "sat": "ᱥᱮᱛᱟ"
+	},
+	{
+	 "eng": "bitch",
+	 "sat": "ᱮᱸᱜᱟ ᱥᱮᱛᱟ"
+	},
+	{
+	 "eng": "cow",
+	 "sat": "ᱜᱟ.ᱭ"
+	},
+	{
+	 "eng": "mare",
+	 "sat": "ᱮᱸᱜᱟ ᱥᱟᱫᱚᱢ"
+	},
+	{
+	 "eng": "colt",
+	 "sat": "ᱥᱟᱫᱚᱢ ᱜᱤᱫᱽᱨᱟ."
+	},
+	{
+	 "eng": "mouse",
+	 "sat": "ᱪᱩᱴᱩ"
+	},
+	{
+	 "eng": "he goat",
+	 "sat": "ᱢᱮᱨᱚᱢ"
+	},
+	{
+	 "eng": "she goat",
+	 "sat": "ᱮᱸᱜᱟ ᱢᱮᱨᱚᱢ"
+	},
+	{
+	 "eng": "kid",
+	 "sat": "ᱢᱮᱨᱚᱢ ᱜᱤᱫᱽᱨᱟ."
+	},
+	{
+	 "eng": "calf",
+	 "sat": "ᱫᱟᱢᱠᱚᱢ"
+	},
+	{
+	 "eng": "kitten",
+	 "sat": "ᱯᱩᱥᱤ ᱜᱤᱫᱽᱨᱟ."
+	},
+	{
+	 "eng": "ox",
+	 "sat": "ᱰᱟᱝᱨᱟ"
+	},
+	{
+	 "eng": "lamb",
+	 "sat": "ᱵᱷᱤᱰᱤ ᱜᱤᱫᱽᱨᱟ."
+	},
+	{
+	 "eng": "buffalo",
+	 "sat": "ᱠᱟᱲᱟ"
+	},
+	{
+	 "eng": "hoond",
+	 "sat": "ᱥᱮᱸᱫᱽᱨᱟ ᱥᱮᱛᱟ"
+	},
+	{
+	 "eng": "bull",
+	 "sat": "ᱥᱚᱲᱚ"
+	},
+	{
+	 "eng": "pig",
+	 "sat": "ᱥᱩᱠᱨᱤ"
+	},
+	{
+	 "eng": "day",
+	 "sat": "ᱫᱤᱱ"
+	},
+	{
+	 "eng": "week",
+	 "sat": "ᱦᱟᱴ"
+	},
+	{
+	 "eng": "month",
+	 "sat": "ᱪᱟᱸᱫᱚ"
+	},
+	{
+	 "eng": "year",
+	 "sat": "ᱥᱮᱨᱢᱟ"
+	},
+	{
+	 "eng": "hour",
+	 "sat": "ᱴᱟᱲᱟᱝ"
+	},
+	{
+	 "eng": "minute",
+	 "sat": "ᱴᱤᱯᱤᱡ"
+	},
+	{
+	 "eng": "second",
+	 "sat": "ᱴᱤᱡ"
+	},
+	{
+	 "eng": "sunday",
+	 "sat": "ᱥᱤᱸᱜᱩᱱ"
+	},
+	{
+	 "eng": "monday",
+	 "sat": "ᱚᱛᱮ"
+	},
+	{
+	 "eng": "tuesday",
+	 "sat": "ᱵᱟᱞᱮ"
+	},
+	{
+	 "eng": "wednesday",
+	 "sat": "ᱥᱟ.ᱜᱩᱱ"
+	},
+	{
+	 "eng": "thursday",
+	 "sat": "ᱥᱟ.ᱨᱫᱤ"
+	},
+	{
+	 "eng": "friday",
+	 "sat": "ᱡᱟ.ᱨᱩᱵ"
+	},
+	{
+	 "eng": "saturday",
+	 "sat": "ᱧᱩᱸᱦᱩᱢ"
+	},
+	{
+	 "eng": "january",
+	 "sat": "ᱡᱟᱱᱩᱟᱨᱤ"
+	},
+	{
+	 "eng": "february",
+	 "sat": "ᱯᱦᱮᱵᱨᱩᱟᱨᱭ"
+	},
+	{
+	 "eng": "march",
+	 "sat": "ᱢᱟᱨᱪ"
+	},
+	{
+	 "eng": "april",
+	 "sat": "ᱮᱯᱨᱤᱞ"
+	},
+	{
+	 "eng": "may",
+	 "sat": "ᱢᱮᱭ"
+	},
+	{
+	 "eng": "june",
+	 "sat": "ᱡᱩᱱ"
+	},
+	{
+	 "eng": "july",
+	 "sat": "ᱡᱩᱞᱭ"
+	},
+	{
+	 "eng": "august",
+	 "sat": "ᱟᱜᱚᱥᱴ"
+	},
+	{
+	 "eng": "september",
+	 "sat": "ᱥᱮᱯᱴᱮᱢᱵᱚᱨ"
+	},
+	{
+	 "eng": "october",
+	 "sat": "ᱚᱠᱴᱚᱵᱚᱨ"
+	},
+	{
+	 "eng": "november",
+	 "sat": "ᱱᱚᱵᱷᱮᱢᱵᱚᱨ"
+	},
+	{
+	 "eng": "december",
+	 "sat": "ᱰᱤᱥᱮᱢᱵᱚᱨ"
+	},
+	{
+	 "eng": "Noun",
+	 "sat": "ᱧᱩᱱᱩᱢ"
+	},
+	{
+	 "eng": "Pronoun",
+	 "sat": "ᱩᱧᱩᱢ"
+	},
+	{
+	 "eng": "Adjective",
+	 "sat": "ᱜᱩᱱᱩᱱ"
+	},
+	{
+	 "eng": "Verb",
+	 "sat": "ᱠᱟᱱᱣᱟ"
+	},
+	{
+	 "eng": "Book",
+	 "sat": "ᱯᱚᱛᱚᱵ"
+	},
+	{
+	 "eng": "Mango",
+	 "sat": "ᱩᱞ"
+	},
+	{
+	 "eng": "Tree",
+	 "sat": "ᱫᱟᱨᱮ"
+	},
+	{
+	 "eng": "House",
+	 "sat": "ᱚᱲᱟᱜ"
+	},
+	{
+	 "eng": "this",
+	 "sat": "ᱱᱚᱶᱟ"
+	},
+	{
+	 "eng": "this",
+	 "sat": "ᱱᱩᱭ"
+	},
+	{
+	 "eng": "that",
+	 "sat": "ᱚᱱᱟ"
+	},
+	{
+	 "eng": "that",
+	 "sat": "ᱩᱱᱤ"
+	},
+	{
+	 "eng": "sweet",
+	 "sat": "ᱥᱤᱵᱤᱞ"
+	},
+	{
+	 "eng": "red",
+	 "sat": "ᱟᱨᱟᱜ"
+	},
+	{
+	 "eng": "hot",
+	 "sat": "ᱞᱚᱞᱚ"
+	},
+	{
+	 "eng": "little",
+	 "sat": "ᱦᱩᱰᱤᱧ"
+	},
+	{
+	 "eng": "to eat",
+	 "sat": "ᱡᱚᱢ"
+	},
+	{
+	 "eng": "to drink",
+	 "sat": "ᱧᱩ"
+	},
+	{
+	 "eng": "to come",
+	 "sat": "ᱦᱤᱡᱩᱜ"
+	},
+	{
+	 "eng": "to sit",
+	 "sat": "ᱫᱩᱲᱩᱵ"
+	},
+	{
+	 "eng": "we two",
+	 "sat": "ᱟᱹᱞᱟᱝ"
+	},
+	{
+	 "eng": "we",
+	 "sat": "ᱟᱞᱮ"
+	},
+	{
+	 "eng": "you",
+	 "sat": "ᱟᱢ"
+	},
+	{
+	 "eng": "and",
+	 "sat": "ᱟᱨ"
+	},
+	{
+	 "eng": "or",
+	 "sat": "ᱟᱨᱵᱟᱝ"
+	},
+	{
+	 "eng": "or else",
+	 "sat": "ᱵᱟᱝᱠᱷᱟᱱ"
+	},
+	{
+	 "eng": "in",
+	 "sat": "ᱨᱮ"
+	},
+	{
+	 "eng": "about",
+	 "sat": "ᱨᱮᱭᱟᱜ"
+	},
+	{
+	 "eng": "into",
+	 "sat": "ᱛᱮ"
+	},
+	{
+	 "eng": "one",
+	 "sat": "ᱢᱤᱫ"
+	},
+	{
+	 "eng": "ten",
+	 "sat": "ᱜᱮᱞ"
+	},
+	{
+	 "eng": "hundred",
+	 "sat": "ᱥᱟᱭ"
+	},
+	{
+	 "eng": "thousand",
+	 "sat": "ᱥᱮᱞᱥᱟᱭ"
+	},
+	{
+	 "eng": "ten thousand",
+	 "sat": "ᱜᱮᱞᱥᱟᱥᱟᱭ"
+	},
+	{
+	 "eng": "lac",
+	 "sat": "ᱢᱚᱲᱚᱭ"
+	},
+	{
+	 "eng": "ten lac",
+	 "sat": "ᱜᱮᱞᱢᱚᱲᱚᱭ"
+	},
+	{
+	 "eng": "carore",
+	 "sat": "ᱵᱚᱲᱚᱭ"
+	},
+	{
+	 "eng": "zero",
+	 "sat": "ᱥᱩᱱᱭᱚ"
+	},
+	{
+	 "eng": "one",
+	 "sat": "ᱢᱤᱫ"
+	},
+	{
+	 "eng": "two",
+	 "sat": "ᱵᱟᱨ"
+	},
+	{
+	 "eng": "three",
+	 "sat": "ᱯᱮ"
+	},
+	{
+	 "eng": "four",
+	 "sat": "ᱯᱩᱱ"
+	},
+	{
+	 "eng": "five",
+	 "sat": "ᱢᱚᱸᱬᱮ"
+	},
+	{
+	 "eng": "six",
+	 "sat": "ᱛᱩᱨᱩᱭ"
+	},
+	{
+	 "eng": "seven",
+	 "sat": "ᱮᱭᱟᱭ"
+	},
+	{
+	 "eng": "eight",
+	 "sat": "ᱤᱨᱟ.ᱞ"
+	},
+	{
+	 "eng": "nine",
+	 "sat": "ᱟᱨᱮᱞ"
+	},
+	{
+	 "eng": "ten",
+	 "sat": "ᱜᱮᱞ"
+	},
+	{
+	 "eng": "eleven",
+	 "sat": "ᱜᱮᱞ ᱢᱤᱫ"
+	},
+	{
+	 "eng": "twelve",
+	 "sat": "ᱜᱮᱞ ᱵᱟᱨ"
+	},
+	{
+	 "eng": "thirteen",
+	 "sat": "ᱜᱮᱞ ᱯᱮ"
+	},
+	{
+	 "eng": "fourteen",
+	 "sat": "ᱜᱮᱞ ᱯᱤᱱ"
+	},
+	{
+	 "eng": "fifteen",
+	 "sat": "ᱜᱮᱞ ᱢᱚᱸᱬᱮ"
+	},
+	{
+	 "eng": "sixteen",
+	 "sat": "ᱜᱮᱞ ᱛᱩᱨᱩᱭ"
+	},
+	{
+	 "eng": "seventeen",
+	 "sat": "ᱜᱮᱞ ᱮᱭᱟᱭ"
+	},
+	{
+	 "eng": "eighteen",
+	 "sat": "ᱜᱮᱞ ᱤᱨᱟ.ᱞ"
+	},
+	{
+	 "eng": "nineteen",
+	 "sat": "ᱜᱮᱞ ᱟᱨᱮᱞ"
+	},
+	{
+	 "eng": "twenty",
+	 "sat": "ᱵᱟᱨ ᱜᱮᱞ"
+	},
+	{
+	 "eng": "twenty one",
+	 "sat": "ᱵᱟᱨ ᱜᱮᱞ ᱢᱤᱫ"
+	},
+	{
+	 "eng": "twenty two",
+	 "sat": "ᱵᱟᱨ ᱜᱮᱞ ᱵᱟᱨ"
+	},
+	{
+	 "eng": "twenty three",
+	 "sat": "ᱵᱟᱨ ᱜᱮᱞ ᱯᱮ"
+	},
+	{
+	 "eng": "twenty four",
+	 "sat": "ᱵᱟᱨ ᱜᱮᱞ ᱯᱩᱱ"
+	},
+	{
+	 "eng": "twenty five",
+	 "sat": "ᱵᱟᱨ ᱜᱮᱞ ᱢᱚᱸᱬᱮ"
+	},
+	{
+	 "eng": "twenty six",
+	 "sat": "ᱵᱟᱨ ᱜᱮᱞ ᱛᱩᱨᱩᱭ"
+	},
+	{
+	 "eng": "twenty seven",
+	 "sat": "ᱵᱟᱨ ᱜᱮᱞ ᱮᱭᱟᱭ"
+	},
+	{
+	 "eng": "twenty eight",
+	 "sat": "ᱵᱟᱨ ᱜᱮᱞ ᱤᱨᱟ.ᱞ"
+	},
+	{
+	 "eng": "twenty nine",
+	 "sat": "ᱵᱟᱨ ᱜᱮᱞ ᱟᱨᱮᱞ"
+	},
+	{
+	 "eng": "thirty",
+	 "sat": "ᱯᱮ ᱜᱮᱞ"
+	},
+	{
+	 "eng": "thirty one",
+	 "sat": "ᱯᱮ ᱜᱮᱞ ᱢᱤᱫ"
+	},
+	{
+	 "eng": "thirty two",
+	 "sat": "ᱯᱮ ᱜᱮᱞ ᱵᱟᱨ"
+	},
+	{
+	 "eng": "thirty three",
+	 "sat": "ᱯᱮ ᱜᱮᱞ ᱯᱮ"
+	},
+	{
+	 "eng": "thirty four",
+	 "sat": "ᱯᱮ ᱜᱮᱞ ᱯᱩᱱ"
+	},
+	{
+	 "eng": "thirty five",
+	 "sat": "ᱯᱮ ᱜᱮᱞ ᱢᱚᱸᱮ"
+	},
+	{
+	 "eng": "thirty six",
+	 "sat": "ᱯᱮ ᱜᱮᱞ ᱛᱩᱨᱩᱭ"
+	},
+	{
+	 "eng": "thirty seven",
+	 "sat": "ᱯᱮ ᱜᱮᱞ ᱮᱭᱟᱭ"
+	},
+	{
+	 "eng": "thirty eight",
+	 "sat": "ᱯᱮ ᱜᱮᱞ ᱤᱨᱟ.ᱞ"
+	},
+	{
+	 "eng": "thirty nine",
+	 "sat": "ᱯᱮ ᱜᱮᱞ ᱟᱨᱮᱞ"
+	},
+	{
+	 "eng": "forty",
+	 "sat": "ᱯᱩᱱ ᱜᱮᱞ"
+	},
+	{
+	 "eng": "forty one",
+	 "sat": "ᱯᱩᱱ ᱜᱮᱞ ᱢᱤᱫ"
+	},
+	{
+	 "eng": "forty two",
+	 "sat": "ᱯᱩᱱ ᱜᱮᱞ ᱵᱟᱨ"
+	},
+	{
+	 "eng": "forty three",
+	 "sat": "ᱯᱩᱱ ᱜᱮᱞ ᱯᱮ"
+	},
+	{
+	 "eng": "forty four",
+	 "sat": "ᱯᱩᱱ ᱜᱮᱞ ᱯᱩᱱ"
+	},
+	{
+	 "eng": "forty five",
+	 "sat": "ᱯᱩ ᱜᱮᱞ ᱢᱚᱬᱮ"
+	},
+	{
+	 "eng": "forty six",
+	 "sat": "ᱯᱩᱱ ᱜᱮᱞ ᱛᱩᱨᱩᱭ"
+	},
+	{
+	 "eng": "forty seven",
+	 "sat": "ᱯᱩᱱ ᱜᱮᱞ ᱮᱭᱟᱭ"
+	},
+	{
+	 "eng": "forty eight",
+	 "sat": "ᱯᱩᱱ ᱜᱮᱞ ᱤᱨᱟ.ᱞ"
+	},
+	{
+	 "eng": "forty nine",
+	 "sat": "ᱯᱩᱱ ᱜᱮᱞ ᱟᱨᱮᱞ"
+	},
+	{
+	 "eng": "fifty",
+	 "sat": "ᱢᱚᱸᱬᱮ ᱜᱮᱞ"
+	},
+	{
+	 "eng": "fifty one",
+	 "sat": "ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱢᱤᱫ"
+	},
+	{
+	 "eng": "fifty two",
+	 "sat": "ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱵᱟᱨ"
+	},
+	{
+	 "eng": "fifty three",
+	 "sat": "ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱯᱮ"
+	},
+	{
+	 "eng": "fifty four",
+	 "sat": "ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱯᱩᱱ"
+	},
+	{
+	 "eng": "fifty five",
+	 "sat": "ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱢᱚᱸᱬᱮ"
+	},
+	{
+	 "eng": "fifty six",
+	 "sat": "ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱛᱩᱨᱩᱭ"
+	},
+	{
+	 "eng": "fifty seven",
+	 "sat": "ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱮᱭᱟᱭ"
+	},
+	{
+	 "eng": "fifty eight",
+	 "sat": "ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱤᱨᱟ.ᱞ"
+	},
+	{
+	 "eng": "fifty nine",
+	 "sat": "ᱢᱚᱸᱬᱮ ᱜᱮᱞ ᱟᱨᱮᱞ"
+	},
+	{
+	 "eng": "sixty",
+	 "sat": "ᱛᱩᱨᱩᱭ ᱜᱮᱞ"
+	},
+	{
+	 "eng": "sixty one",
+	 "sat": "ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱢᱤᱫ"
+	},
+	{
+	 "eng": "sixty two",
+	 "sat": "ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱵᱟᱨ"
+	},
+	{
+	 "eng": "sixty three",
+	 "sat": "ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱯᱮ"
+	},
+	{
+	 "eng": "sixty four",
+	 "sat": "ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱯᱩᱱ"
+	},
+	{
+	 "eng": "sixty five",
+	 "sat": "ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱢᱚᱸᱬᱮ"
+	},
+	{
+	 "eng": "sixty six",
+	 "sat": "ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱛᱩᱨᱩᱭ"
+	},
+	{
+	 "eng": "sixty seven",
+	 "sat": "ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱮᱭᱟᱭ"
+	},
+	{
+	 "eng": "sixty eight",
+	 "sat": "ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱤᱨᱟ.ᱞ"
+	},
+	{
+	 "eng": "sixty nine",
+	 "sat": "ᱛᱩᱨᱩᱭ ᱜᱮᱞ ᱟᱨᱮᱞ"
+	},
+	{
+	 "eng": "seventy",
+	 "sat": "ᱮᱭᱟᱭ ᱜᱮᱞ"
+	},
+	{
+	 "eng": "seventy one",
+	 "sat": "ᱮᱭᱟᱭ ᱜᱮᱞ ᱢᱤᱫ"
+	},
+	{
+	 "eng": "seventy two",
+	 "sat": "ᱮᱭᱟᱭ ᱜᱮᱞ ᱵᱟᱨ"
+	},
+	{
+	 "eng": "seventy three",
+	 "sat": "ᱮᱭᱟᱭ ᱜᱮᱞ ᱯᱮ"
+	},
+	{
+	 "eng": "seventy four",
+	 "sat": "ᱮᱭᱟᱭ ᱜᱮᱞ ᱯᱩᱱ"
+	},
+	{
+	 "eng": "seventy five",
+	 "sat": "ᱮᱭᱟᱭ ᱜᱮᱞ ᱢᱚᱸᱬᱮ"
+	},
+	{
+	 "eng": "seventy six",
+	 "sat": "ᱮᱭᱟᱭ ᱜᱮᱞ ᱛᱩᱨᱩᱭ"
+	},
+	{
+	 "eng": "seventy seven",
+	 "sat": "ᱮᱭᱟᱭ ᱜᱮᱞ ᱮᱭᱟᱭ"
+	},
+	{
+	 "eng": "seventy eight",
+	 "sat": "ᱮᱭᱟᱭ ᱜᱮᱞ ᱤᱨᱟ.ᱞ"
+	},
+	{
+	 "eng": "seventy nine",
+	 "sat": "ᱮᱭᱟᱭ ᱜᱮᱞ ᱟᱨᱮᱞ"
+	},
+	{
+	 "eng": "eighty",
+	 "sat": "ᱮᱨᱟ.ᱞ ᱜᱮᱞ"
+	},
+	{
+	 "eng": "eighty one",
+	 "sat": "ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱢᱤᱫ"
+	},
+	{
+	 "eng": "eighty two",
+	 "sat": "ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱵᱟᱨ"
+	},
+	{
+	 "eng": "eighty three",
+	 "sat": "ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱯᱮ"
+	},
+	{
+	 "eng": "eighty four",
+	 "sat": "ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱯᱩᱱ"
+	},
+	{
+	 "eng": "eighty five",
+	 "sat": "ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱢᱚᱸᱬᱮ"
+	},
+	{
+	 "eng": "eighty six",
+	 "sat": "ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱛᱩᱨᱩᱭ"
+	},
+	{
+	 "eng": "eighty seven",
+	 "sat": "ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱮᱭᱟᱭ"
+	},
+	{
+	 "eng": "eighty eight",
+	 "sat": "ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱤᱨᱟ.ᱞ"
+	},
+	{
+	 "eng": "eighty nine",
+	 "sat": "ᱮᱨᱟ.ᱞ ᱜᱮᱞ ᱟᱨᱮᱞ"
+	},
+	{
+	 "eng": "ninety",
+	 "sat": "ᱟᱨᱮᱞ ᱜᱮᱞ"
+	},
+	{
+	 "eng": "ninety one",
+	 "sat": "ᱟᱨᱮᱞ ᱜᱮᱞ ᱢᱤᱫ"
+	},
+	{
+	 "eng": "ninety two",
+	 "sat": "ᱟᱨᱮᱞ ᱜᱮᱞ ᱵᱟᱨ"
+	},
+	{
+	 "eng": "ninety three",
+	 "sat": "ᱟᱨᱮᱞ ᱜᱮᱞ ᱯᱮ"
+	},
+	{
+	 "eng": "ninety four",
+	 "sat": "ᱟᱨᱮᱞ ᱜᱮᱞ ᱯᱩᱱ"
+	},
+	{
+	 "eng": "ninety five",
+	 "sat": "ᱟᱨᱮᱞ ᱜᱮᱞ ᱢᱚᱸᱬᱮ"
+	},
+	{
+	 "eng": "ninety six",
+	 "sat": "ᱟᱨᱮᱞ ᱜᱮᱞ ᱛᱩᱨᱩᱭ"
+	},
+	{
+	 "eng": "ninety seven",
+	 "sat": "ᱟᱨᱮᱞ ᱜᱮᱞ ᱮᱭᱟᱭ"
+	},
+	{
+	 "eng": "ninety eight",
+	 "sat": "ᱟᱨᱮᱞ ᱜᱮᱞ ᱤᱨᱟ.ᱞ"
+	},
+	{
+	 "eng": "ninety nine",
+	 "sat": "ᱟᱨᱮᱞ ᱜᱮᱞ ᱟᱨᱮᱞ"
+	},
+	{
+	 "eng": "one hundred",
+	 "sat": "ᱢᱤᱫ ᱥᱟᱭ"
+	},
+	{
+	 "eng": "Abkhazian",
+	 "sat": "ᱟᱹᱵᱠᱷᱟᱡᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Achinese",
+	 "sat": "ᱟᱠᱷᱤᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Acoli",
+	 "sat": "ᱟᱹᱠᱚᱞᱤ"
+	},
+	{
+	 "eng": "Adangme",
+	 "sat": "ᱟᱹᱰᱟᱱᱜᱢᱮ"
+	},
+	{
+	 "eng": "Adyghe",
+	 "sat": "ᱟᱹᱰᱤᱜᱷᱮ"
+	},
+	{
+	 "eng": "Afar",
+	 "sat": "ᱟᱹᱯᱷᱟᱹᱨ"
+	},
+	{
+	 "eng": "Afrihili",
+	 "sat": "ᱟᱹᱯᱷᱨᱤᱦᱤᱞᱤ"
+	},
+	{
+	 "eng": "Afrikaans",
+	 "sat": "ᱟᱯᱷᱨᱤᱠᱟᱱᱥ"
+	},
+	{
+	 "eng": "Aghem",
+	 "sat": "ᱟᱜᱷᱮᱢ"
+	},
+	{
+	 "eng": "Ainu",
+	 "sat": "ᱟᱭᱱᱩ"
+	},
+	{
+	 "eng": "Akan",
+	 "sat": "ᱟᱠᱮᱱ"
+	},
+	{
+	 "eng": "Akkadian",
+	 "sat": "ᱟᱠᱟᱰᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Akoose",
+	 "sat": "ᱟᱠᱩᱡᱽ"
+	},
+	{
+	 "eng": "Alabama",
+	 "sat": "ᱟᱞᱟᱵᱟᱢᱟ"
+	},
+	{
+	 "eng": "Albanian",
+	 "sat": "ᱟᱞᱵᱟᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Aleut",
+	 "sat": "ᱟᱞᱮᱩᱴ"
+	},
+	{
+	 "eng": "Algerian Arabic",
+	 "sat": "ᱟᱞᱡᱮᱨᱤᱭᱟᱹᱱ ᱟᱹᱨᱮᱵᱤᱠ"
+	},
+	{
+	 "eng": "American Sign Language",
+	 "sat": "ᱟᱹᱢᱮᱨᱤᱠᱟᱹᱱ ᱪᱤᱱᱦᱟᱹ ᱯᱟᱹᱨᱥᱤ"
+	},
+	{
+	 "eng": "Amharic",
+	 "sat": "ᱟᱹᱢᱦᱟᱹᱨᱤᱠ"
+	},
+	{
+	 "eng": "Ancient Egyptian",
+	 "sat": "ᱥᱮᱫᱟᱭ ᱤᱡᱤᱯᱴᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Ancient Greek",
+	 "sat": "ᱥᱮᱫᱟᱭ ᱜᱽᱨᱤᱠ"
+	},
+	{
+	 "eng": "Angika",
+	 "sat": "ᱟᱹᱝᱜᱤᱠᱟ"
+	},
+	{
+	 "eng": "Ao Naga",
+	 "sat": "ᱳ ᱱᱟᱜᱟ"
+	},
+	{
+	 "eng": "Arabic",
+	 "sat": "ᱟᱹᱨᱵᱤ"
+	},
+	{
+	 "eng": "Modern Standard Arabic",
+	 "sat": "ᱢᱚᱰᱮᱱ ᱥᱴᱟᱱᱰᱟᱨᱰ ᱟᱹᱨᱵᱤ"
+	},
+	{
+	 "eng": "Aragonese",
+	 "sat": "ᱟᱨᱜᱚᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Aramaic",
+	 "sat": "ᱟᱨᱟᱢᱟᱭᱤᱠ"
+	},
+	{
+	 "eng": "Araona",
+	 "sat": "ᱟᱨᱟᱚᱱᱟ"
+	},
+	{
+	 "eng": "Arapaho",
+	 "sat": "ᱟᱨᱟᱯᱟᱦᱚ"
+	},
+	{
+	 "eng": "Arawak",
+	 "sat": "ᱟᱨᱟᱣᱟᱠ"
+	},
+	{
+	 "eng": "Armenian",
+	 "sat": "ᱟᱨᱢᱮᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Aromanian",
+	 "sat": "ᱟᱨᱚᱢᱟᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Arpitan",
+	 "sat": "ᱟᱨᱯᱤᱴᱟᱱ"
+	},
+	{
+	 "eng": "Assamese",
+	 "sat": "ᱟᱥᱟᱢᱤᱡᱽ"
+	},
+	{
+	 "eng": "Asturian",
+	 "sat": "ᱚᱮᱴᱩᱨᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Asu",
+	 "sat": "ᱟᱤᱩ"
+	},
+	{
+	 "eng": "Atsam",
+	 "sat": "ᱟᱴᱥᱟᱢ"
+	},
+	{
+	 "eng": "Avaric",
+	 "sat": "ᱟᱣᱟᱨᱤᱠ"
+	},
+	{
+	 "eng": "Avestan",
+	 "sat": "ᱟᱣᱮᱥᱴᱟᱱ"
+	},
+	{
+	 "eng": "Awadhi",
+	 "sat": "ᱟᱹᱣᱫᱷᱤ"
+	},
+	{
+	 "eng": "Aymara",
+	 "sat": "ᱟᱭᱢᱟᱨᱟ"
+	},
+	{
+	 "eng": "Azerbaijani",
+	 "sat": "ᱟᱹᱡᱟᱹᱨᱵᱮᱭᱡᱟᱱᱤ"
+	},
+	{
+	 "eng": "Azeri",
+	 "sat": "ᱟᱹᱡᱮᱨᱤ"
+	},
+	{
+	 "eng": "Badaga",
+	 "sat": "ᱵᱟᱰᱮᱜᱟ"
+	},
+	{
+	 "eng": "Bafia",
+	 "sat": "ᱵᱟᱯᱷᱤᱭᱟ"
+	},
+	{
+	 "eng": "Bafut",
+	 "sat": "ᱵᱟᱯᱷᱩᱛ"
+	},
+	{
+	 "eng": "Bakhtiari",
+	 "sat": "ᱵᱟᱠᱷᱛᱤᱭᱟᱨᱤ"
+	},
+	{
+	 "eng": "Balinese",
+	 "sat": "ᱵᱟᱞᱤᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Baluchi",
+	 "sat": "ᱵᱟᱹᱞᱩᱪᱤ"
+	},
+	{
+	 "eng": "Bambara",
+	 "sat": "ᱵᱟᱢᱵᱟᱨᱟ"
+	},
+	{
+	 "eng": "Bamun",
+	 "sat": "ᱵᱟᱢᱩᱱ"
+	},
+	{
+	 "eng": "Bangla",
+	 "sat": "ᱵᱟᱹᱝᱜᱞᱟ"
+	},
+	{
+	 "eng": "Banjar",
+	 "sat": "ᱵᱟᱱᱯᱩᱨ"
+	},
+	{
+	 "eng": "Basaa",
+	 "sat": "ᱵᱟᱥᱟ"
+	},
+	{
+	 "eng": "Bashkir",
+	 "sat": "ᱵᱟᱥᱠᱤᱨ"
+	},
+	{
+	 "eng": "Basque",
+	 "sat": "ᱵᱟᱤᱠ"
+	},
+	{
+	 "eng": "Batak Toba",
+	 "sat": "ᱵᱟᱴᱟᱠ ᱛᱚᱵᱟ"
+	},
+	{
+	 "eng": "Bavarian",
+	 "sat": "ᱵᱟᱣᱟᱨᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Beja",
+	 "sat": "ᱵᱮᱡᱟ"
+	},
+	{
+	 "eng": "Belarusian",
+	 "sat": "ᱵᱮᱞᱟᱨᱩᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Bemba",
+	 "sat": "ᱵᱮᱢᱵᱟ"
+	},
+	{
+	 "eng": "Bena",
+	 "sat": "ᱵᱮᱱᱟ"
+	},
+	{
+	 "eng": "Betawi",
+	 "sat": "ᱵᱮᱴᱣᱟ"
+	},
+	{
+	 "eng": "Bhojpuri",
+	 "sat": "ᱵᱷᱚᱡᱽᱯᱩᱨᱤ"
+	},
+	{
+	 "eng": "Bikol",
+	 "sat": "ᱵᱤᱠᱚᱞ"
+	},
+	{
+	 "eng": "Bini",
+	 "sat": "ᱵᱤᱱᱤ"
+	},
+	{
+	 "eng": "Bishnupriya",
+	 "sat": "ᱵᱤᱥᱱᱩᱯᱨᱤᱭᱟ"
+	},
+	{
+	 "eng": "Bislama",
+	 "sat": "ᱵᱤᱥᱞᱟᱢᱟ"
+	},
+	{
+	 "eng": "Blin",
+	 "sat": "ᱵᱤᱞᱱ"
+	},
+	{
+	 "eng": "Blissymbols",
+	 "sat": "ᱵᱞᱤᱥᱤᱢᱵᱚᱞᱥ"
+	},
+	{
+	 "eng": "Bodo",
+	 "sat": "ᱵᱚᱰᱚ"
+	},
+	{
+	 "eng": "Bosnian",
+	 "sat": "ᱵᱚᱥᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Brahui",
+	 "sat": "ᱵᱽᱨᱟᱦᱩᱱᱤ"
+	},
+	{
+	 "eng": "Braj",
+	 "sat": "ᱵᱽᱨᱟᱹᱡᱽ"
+	},
+	{
+	 "eng": "Breton",
+	 "sat": "ᱵᱽᱨᱮᱴᱚᱱ"
+	},
+	{
+	 "eng": "Buginese",
+	 "sat": "ᱵᱩᱜᱤᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Bulgarian",
+	 "sat": "ᱵᱩᱞᱜᱮᱨᱤ"
+	},
+	{
+	 "eng": "Bulu",
+	 "sat": "ᱵᱩᱞᱩ"
+	},
+	{
+	 "eng": "Buriat",
+	 "sat": "ᱵᱩᱨᱤᱭᱟᱹᱛ"
+	},
+	{
+	 "eng": "Burmese",
+	 "sat": "ᱵᱩᱨᱢᱤᱡᱽ"
+	},
+	{
+	 "eng": "Myanmar Language",
+	 "sat": "ᱢᱭᱟᱱᱢᱟᱨ ᱯᱟᱹᱨᱤ"
+	},
+	{
+	 "eng": "Caddo",
+	 "sat": "ᱠᱟᱰᱚ"
+	},
+	{
+	 "eng": "Cajun French",
+	 "sat": "ᱠᱟᱡᱩᱱ ᱯᱷᱨᱮᱧᱪ"
+	},
+	{
+	 "eng": "Cantonese",
+	 "sat": "ᱠᱟᱱᱴᱚᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Chinese, Cantonese",
+	 "sat": "ᱪᱟᱭᱱᱤᱡᱽ, ᱠᱟᱱᱴᱚᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Capiznon",
+	 "sat": "ᱠᱟᱯᱤᱡᱽᱱᱚᱱ"
+	},
+	{
+	 "eng": "Carib",
+	 "sat": "ᱠᱟᱨᱤᱵ"
+	},
+	{
+	 "eng": "Catalan",
+	 "sat": "ᱠᱟᱴᱞᱟᱱ"
+	},
+	{
+	 "eng": "Cayuga",
+	 "sat": "ᱠᱟᱭᱩᱜᱟ"
+	},
+	{
+	 "eng": "Cebuano",
+	 "sat": "ᱥᱤᱵᱩᱟᱱᱚ"
+	},
+	{
+	 "eng": "Central Atlas Tamazight",
+	 "sat": "ᱥᱮᱱᱴᱨᱟᱞ ᱮᱴᱞᱟᱥ ᱛᱟᱢᱟᱡᱟᱭᱮᱛ"
+	},
+	{
+	 "eng": "Central Dusun",
+	 "sat": "ᱥᱮᱱᱴᱨᱟᱞ ᱫᱩᱥᱩᱱ"
+	},
+	{
+	 "eng": "Central Kurdish",
+	 "sat": "ᱥᱮᱱᱴᱨᱟᱞ ᱠᱩᱨᱫᱤᱥ"
+	},
+	{
+	 "eng": "Kurdish, Central",
+	 "sat": "ᱠᱩᱨᱥᱮᱱᱴᱨᱟᱞ"
+	},
+	{
+	 "eng": "Kurdish, Sorani",
+	 "sat": "ᱠᱩᱨᱜᱤᱥ, ᱥᱚᱨᱟᱢᱤ"
+	},
+	{
+	 "eng": "Central Yupik",
+	 "sat": "ᱥᱮᱱᱴᱨᱟᱞ ᱭᱩᱯᱤᱠ"
+	},
+	{
+	 "eng": "Chadian Arabic",
+	 "sat": "ᱪᱟᱰᱤᱭᱟᱹᱱ ᱟᱹᱨᱮᱵᱤᱠ"
+	},
+	{
+	 "eng": "Chagatai",
+	 "sat": "ᱪᱷᱟᱜᱟᱴᱟᱭ"
+	},
+	{
+	 "eng": "Chakma",
+	 "sat": "ᱪᱷᱟᱹᱢᱠᱟ"
+	},
+	{
+	 "eng": "Chamorro",
+	 "sat": "ᱪᱷᱟᱢᱚᱨᱚ"
+	},
+	{
+	 "eng": "Chechen",
+	 "sat": "ᱪᱷᱮᱪᱷᱮᱱ"
+	},
+	{
+	 "eng": "Cherokee",
+	 "sat": "ᱪᱷᱮᱨᱚᱠᱤ"
+	},
+	{
+	 "eng": "Cheyenne",
+	 "sat": "ᱪᱷᱮᱭᱮᱱ"
+	},
+	{
+	 "eng": "Chibcha",
+	 "sat": "ᱪᱷᱤᱵᱪᱷᱟ"
+	},
+	{
+	 "eng": "Chickasaw",
+	 "sat": "ᱪᱷᱤᱠᱟᱥᱚ"
+	},
+	{
+	 "eng": "Chiga",
+	 "sat": "ᱪᱷᱤᱜᱟ"
+	},
+	{
+	 "eng": "Chimborazo Highland Quichua",
+	 "sat": "ᱪᱷᱤᱢᱵᱚᱨᱟᱡᱚ ᱦᱟᱭᱞᱮᱸᱱᱰ ᱠᱣᱤᱪᱷᱩᱣᱟ"
+	},
+	{
+	 "eng": "Chinese",
+	 "sat": "ᱪᱟᱭᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Simplified Chinese",
+	 "sat": "ᱟᱞᱜᱟᱣᱟᱠᱟᱱ ᱪᱟᱭᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Simplified Mandarin Chinese",
+	 "sat": "ᱟᱞᱜᱟᱣᱟᱠᱟᱱ ᱢᱟᱫᱟᱨᱤᱱ ᱪᱟᱭᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Traditional Chinese",
+	 "sat": "ᱴᱨᱮᱰᱤᱥᱱᱟᱞ ᱪᱟᱭᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Traditional Mandarin Chinese",
+	 "sat": "ᱴᱨᱮᱰᱤᱥᱱᱟᱞ ᱢᱟᱫᱟᱨᱤᱱ ᱪᱟᱭᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Mandarin Chinese",
+	 "sat": "ᱢᱟᱹᱱᱰᱟᱨᱤᱭᱟᱹᱱ ᱪᱟᱭᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Chinese, Mandarin",
+	 "sat": "ᱪᱟᱭᱱᱤᱡᱽ, ᱢᱟᱱᱰᱟᱨᱤᱱ"
+	},
+	{
+	 "eng": "Chinook Jargon",
+	 "sat": "ᱪᱤᱱᱩᱠ ᱡᱟᱨᱜᱚᱱ"
+	},
+	{
+	 "eng": "Chipewyan",
+	 "sat": "ᱪᱤᱯᱮᱭᱟᱱ"
+	},
+	{
+	 "eng": "Choctaw",
+	 "sat": "ᱪᱷᱚᱠᱴᱟᱣ"
+	},
+	{
+	 "eng": "Church Slavic",
+	 "sat": "ᱪᱚᱨᱪ ᱥᱞᱟᱣᱤᱠ"
+	},
+	{
+	 "eng": "Chuukese",
+	 "sat": "ᱪᱷᱩᱠᱤᱡᱽ"
+	},
+	{
+	 "eng": "Chuvash",
+	 "sat": "ᱪᱷᱩᱣᱟᱥ"
+	},
+	{
+	 "eng": "Classical Newari",
+	 "sat": "ᱠᱞᱟᱥᱤᱠᱟᱠ ᱱᱮᱣᱟᱨᱤ"
+	},
+	{
+	 "eng": "Classical Syriac",
+	 "sat": "ᱠᱞᱟᱥᱤᱠᱟᱞ ᱥᱭᱨᱤᱭᱟᱠ"
+	},
+	{
+	 "eng": "Colognian",
+	 "sat": "ᱠᱚᱞᱚᱜᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Comorian",
+	 "sat": "ᱠᱚᱢᱚᱨᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Coptic",
+	 "sat": "ᱠᱚᱞᱴᱤᱠ"
+	},
+	{
+	 "eng": "Cornish",
+	 "sat": "ᱠᱚᱨᱱᱤᱥ"
+	},
+	{
+	 "eng": "Corsican",
+	 "sat": "ᱠᱚᱨᱥᱤᱠᱟᱱ"
+	},
+	{
+	 "eng": "Cree",
+	 "sat": "ᱠᱨᱤ"
+	},
+	{
+	 "eng": "Crimean Turkish",
+	 "sat": "ᱠᱨᱤᱢᱤᱭᱟᱹᱱ ᱛᱩᱨᱠᱤᱥ"
+	},
+	{
+	 "eng": "Croatian",
+	 "sat": "ᱠᱨᱚᱮᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Czech",
+	 "sat": "ᱡᱮᱠ"
+	},
+	{
+	 "eng": "Dakota",
+	 "sat": "ᱰᱟᱹᱠᱚᱴᱟ"
+	},
+	{
+	 "eng": "Danish",
+	 "sat": "ᱰᱮᱱᱤᱥ"
+	},
+	{
+	 "eng": "Dargwa",
+	 "sat": "ᱰᱟᱹᱨᱜᱽᱣᱟ"
+	},
+	{
+	 "eng": "Dazaga",
+	 "sat": "ᱰᱟᱡᱟᱜᱟ"
+	},
+	{
+	 "eng": "Delaware",
+	 "sat": "ᱰᱮᱞᱟᱣᱟᱨᱮ"
+	},
+	{
+	 "eng": "Dinka",
+	 "sat": "ᱰᱤᱱᱠᱟ"
+	},
+	{
+	 "eng": "Divehi",
+	 "sat": "ᱰᱤᱣᱮᱦᱤ"
+	},
+	{
+	 "eng": "Dogri",
+	 "sat": "ᱰᱚᱜᱽᱨᱤ"
+	},
+	{
+	 "eng": "Dogrib",
+	 "sat": "ᱰᱚᱜᱽᱨᱤᱵ"
+	},
+	{
+	 "eng": "Duala",
+	 "sat": "ᱰᱣᱟᱞᱟ"
+	},
+	{
+	 "eng": "Dutch",
+	 "sat": "ᱰᱚᱪ"
+	},
+	{
+	 "eng": "Flemish",
+	 "sat": "ᱯᱷᱞᱮᱢᱤᱥ"
+	},
+	{
+	 "eng": "Dyula",
+	 "sat": "ᱰᱭᱩᱞᱟ"
+	},
+	{
+	 "eng": "Dzongkha",
+	 "sat": "ᱡᱚᱝᱠᱷᱟ"
+	},
+	{
+	 "eng": "Eastern Frisian",
+	 "sat": "ᱥᱟᱢᱟᱝ ᱯᱷᱨᱤᱥᱤᱭᱟᱱ"
+	},
+	{
+	 "eng": "Efik",
+	 "sat": "ᱤᱯᱷᱤᱠ"
+	},
+	{
+	 "eng": "Egyptian Arabic",
+	 "sat": "ᱤᱡᱤᱯᱴᱤᱭᱟᱹᱱ ᱟᱹᱨᱮᱵᱤᱠ"
+	},
+	{
+	 "eng": "Ekajuk",
+	 "sat": "ᱤᱠᱟᱡᱤᱠ"
+	},
+	{
+	 "eng": "Elamite",
+	 "sat": "ᱮᱞᱟᱢᱤᱴ"
+	},
+	{
+	 "eng": "Embu",
+	 "sat": "ᱮᱢᱵᱩ"
+	},
+	{
+	 "eng": "Emilian",
+	 "sat": "ᱮᱢᱤᱞᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "English",
+	 "sat": "ᱟᱝᱜᱽᱨᱮᱡᱤ"
+	},
+	{
+	 "eng": "Australian English",
+	 "sat": "ᱚᱥᱴᱨᱮᱞᱤᱭᱟᱱ ᱟᱝᱜᱽᱨᱮᱡᱤ"
+	},
+	{
+	 "eng": "Canadian English",
+	 "sat": "ᱠᱟᱱᱟᱰᱤᱭᱟᱱ ᱟᱝᱜᱽᱨᱮᱡᱤ"
+	},
+	{
+	 "eng": "British English",
+	 "sat": "ᱵᱨᱤᱴᱤᱥ ᱟᱝᱜᱽᱨᱮᱡᱤ"
+	},
+	{
+	 "eng": "UK English",
+	 "sat": "ᱭᱩᱠᱮ ᱟᱝᱜᱽᱨᱮᱡᱤ"
+	},
+	{
+	 "eng": "American English",
+	 "sat": "ᱟᱢᱮᱨᱤᱠᱟᱱ ᱟᱝᱜᱽᱨᱮᱡᱤ"
+	},
+	{
+	 "eng": "US English",
+	 "sat": "ᱭᱩ ᱮᱥ ᱟᱝᱜᱽᱨᱮᱡᱤ"
+	},
+	{
+	 "eng": "Erzya",
+	 "sat": "ᱮᱨᱡᱭᱟ"
+	},
+	{
+	 "eng": "Esperanto",
+	 "sat": "ᱮᱥᱯᱟᱨᱮᱱᱛᱚ"
+	},
+	{
+	 "eng": "Estonian",
+	 "sat": "ᱮᱥᱴᱚᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Ewe",
+	 "sat": "ᱤᱣᱤ"
+	},
+	{
+	 "eng": "Ewondo",
+	 "sat": "ᱤᱣᱚᱱᱰᱚ"
+	},
+	{
+	 "eng": "Extremaduran",
+	 "sat": "ᱮᱠᱥᱴᱨᱤᱢᱟᱰᱩᱨᱟᱱ"
+	},
+	{
+	 "eng": "Fang",
+	 "sat": "ᱯᱷᱟᱝ"
+	},
+	{
+	 "eng": "Fanti",
+	 "sat": "ᱯᱷᱟᱱᱴᱤ"
+	},
+	{
+	 "eng": "Faroese",
+	 "sat": "ᱯᱷᱟᱨᱚᱤᱥ"
+	},
+	{
+	 "eng": "Fiji Hindi",
+	 "sat": "ᱯᱷᱤᱡᱤ ᱦᱤᱱᱫᱤ"
+	},
+	{
+	 "eng": "Fijian",
+	 "sat": "ᱯᱷᱤᱡᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Filipino",
+	 "sat": "ᱯᱤᱞᱤᱯᱤᱱᱚ"
+	},
+	{
+	 "eng": "Finnish",
+	 "sat": "ᱯᱷᱤᱱᱤᱥ"
+	},
+	{
+	 "eng": "Fon",
+	 "sat": "ᱯᱷᱚᱱ"
+	},
+	{
+	 "eng": "Frafra",
+	 "sat": "ᱯᱷᱨᱟᱯᱷᱨᱟ"
+	},
+	{
+	 "eng": "French",
+	 "sat": "ᱯᱷᱨᱮᱧᱪ"
+	},
+	{
+	 "eng": "Canadian French",
+	 "sat": "ᱠᱟᱱᱟᱰᱤᱭᱟᱱ ᱯᱷᱨᱮᱧᱪ"
+	},
+	{
+	 "eng": "Swiss French",
+	 "sat": "ᱥᱩᱣᱤᱥ ᱯᱷᱨᱮᱧᱪ"
+	},
+	{
+	 "eng": "Friulian",
+	 "sat": "ᱯᱷᱨᱤᱩᱞᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Fulah",
+	 "sat": "ᱯᱷᱩᱞᱟᱦ"
+	},
+	{
+	 "eng": "Ga",
+	 "sat": "ᱜᱟ"
+	},
+	{
+	 "eng": "Gagauz",
+	 "sat": "ᱜᱟᱜᱟᱩᱡᱽ"
+	},
+	{
+	 "eng": "Galician",
+	 "sat": "ᱜᱟᱞᱤᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Gan Chinese",
+	 "sat": "ᱜᱟᱱ ᱪᱟᱭᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Ganda",
+	 "sat": "ᱜᱟᱱᱰᱟ"
+	},
+	{
+	 "eng": "Gayo",
+	 "sat": "ᱜᱟᱭᱳ"
+	},
+	{
+	 "eng": "Gbaya",
+	 "sat": "ᱜᱟᱭᱟ"
+	},
+	{
+	 "eng": "Geez",
+	 "sat": "ᱜᱤᱡᱽ"
+	},
+	{
+	 "eng": "Georgian",
+	 "sat": "ᱡᱤᱭᱚᱨᱡᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "German",
+	 "sat": "ᱡᱟᱨᱢᱟᱱ"
+	},
+	{
+	 "eng": "Austrian German",
+	 "sat": "ᱚᱥᱴᱨᱤᱭᱟ ᱡᱟᱨᱢᱟᱱ"
+	},
+	{
+	 "eng": "Swiss High German",
+	 "sat": "ᱥᱩᱣᱤᱥ ᱦᱟᱤ ᱡᱟᱨᱢᱟᱱ"
+	},
+	{
+	 "eng": "Gheg Albanian",
+	 "sat": "ᱜᱷᱮᱜᱽ ᱟᱞᱵᱟᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Ghomala",
+	 "sat": "ᱜᱷᱚᱢᱟᱞᱟ"
+	},
+	{
+	 "eng": "Gilaki",
+	 "sat": "ᱜᱤᱞᱟᱠᱤ"
+	},
+	{
+	 "eng": "Gilbertese",
+	 "sat": "ᱜᱤᱞᱵᱟᱹᱨᱴᱤᱡᱽ"
+	},
+	{
+	 "eng": "Goan Konkani",
+	 "sat": "ᱜᱚᱣᱟᱱ ᱠᱚᱱᱠᱟᱱᱤ"
+	},
+	{
+	 "eng": "Gondi",
+	 "sat": "ᱜᱚᱱᱰᱤ"
+	},
+	{
+	 "eng": "Gorontalo",
+	 "sat": "ᱜᱚᱨᱚᱱᱴᱟᱞᱚ"
+	},
+	{
+	 "eng": "Gothic",
+	 "sat": "ᱜᱚᱛᱷᱤᱠ"
+	},
+	{
+	 "eng": "Grebo",
+	 "sat": "ᱜᱨᱮᱵᱚ"
+	},
+	{
+	 "eng": "Greek",
+	 "sat": "ᱜᱽᱨᱤᱠ"
+	},
+	{
+	 "eng": "Guarani",
+	 "sat": "ᱜᱩᱣᱟᱨᱟᱱᱤ"
+	},
+	{
+	 "eng": "Gujarati",
+	 "sat": "ᱜᱩᱡᱽᱨᱟᱴᱤ"
+	},
+	{
+	 "eng": "Gusii",
+	 "sat": "ᱜᱩᱥᱤ"
+	},
+	{
+	 "eng": "Gwichʼin",
+	 "sat": "ᱜᱣᱤᱪᱤᱱ"
+	},
+	{
+	 "eng": "Haida",
+	 "sat": "ᱦᱟᱭᱰᱟ"
+	},
+	{
+	 "eng": "Haitian Creole",
+	 "sat": "ᱦᱟᱭᱛᱤᱭᱟᱹᱱ ᱠᱨᱮᱚᱞᱮ"
+	},
+	{
+	 "eng": "Hakka Chinese",
+	 "sat": "ᱦᱟᱠᱟ ᱪᱟᱭᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Hausa",
+	 "sat": "ᱦᱟᱣᱥᱟ"
+	},
+	{
+	 "eng": "Hawaiian",
+	 "sat": "ᱦᱟᱣᱟᱭᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Hebrew",
+	 "sat": "ᱦᱮᱵᱽᱨᱤᱣ"
+	},
+	{
+	 "eng": "Herero",
+	 "sat": "ᱦᱮᱨᱮᱨᱚ"
+	},
+	{
+	 "eng": "Hiligaynon",
+	 "sat": "ᱦᱤᱞᱤᱜᱟᱭᱱᱚᱱ"
+	},
+	{
+	 "eng": "Hindi",
+	 "sat": "ᱦᱤᱱᱫᱤ"
+	},
+	{
+	 "eng": "Hiri Motu",
+	 "sat": "ᱦᱤᱨᱤ ᱢᱚᱴᱩ"
+	},
+	{
+	 "eng": "Hittite",
+	 "sat": "ᱦᱤᱴᱤᱴᱮ"
+	},
+	{
+	 "eng": "Hmong",
+	 "sat": "ᱢᱚᱝ"
+	},
+	{
+	 "eng": "Hungarian",
+	 "sat": "ᱦᱟᱹᱝᱜᱮᱨᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Hupa",
+	 "sat": "ᱦᱩᱯᱟ"
+	},
+	{
+	 "eng": "Iban",
+	 "sat": "ᱤᱵᱟᱱ"
+	},
+	{
+	 "eng": "Ibibio",
+	 "sat": "ᱤᱵᱤᱵᱤᱭᱚ"
+	},
+	{
+	 "eng": "Icelandic",
+	 "sat": "ᱟᱭᱤᱥᱞᱮᱱᱰᱤᱠ"
+	},
+	{
+	 "eng": "Ido",
+	 "sat": "ᱤᱰᱳ"
+	},
+	{
+	 "eng": "Igbo",
+	 "sat": "ᱤᱜᱽᱵᱚ"
+	},
+	{
+	 "eng": "Iloko",
+	 "sat": "ᱤᱞᱚᱠᱚ"
+	},
+	{
+	 "eng": "Inari Sami",
+	 "sat": "ᱤᱱᱟᱨᱤ ᱥᱟᱢᱤ"
+	},
+	{
+	 "eng": "Indonesian",
+	 "sat": "ᱤᱱᱰᱚᱱᱮᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Ingrian",
+	 "sat": "ᱤᱱᱜᱽᱨᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Ingush",
+	 "sat": "ᱤᱱᱜᱩᱥ"
+	},
+	{
+	 "eng": "Interlingua",
+	 "sat": "ᱤᱱᱴᱚᱨᱞᱤᱝᱜᱩᱣᱟ"
+	},
+	{
+	 "eng": "Interlingue",
+	 "sat": "ᱤᱱᱴᱚᱨᱞᱤᱝᱜᱩᱣᱮ"
+	},
+	{
+	 "eng": "Inuktitut",
+	 "sat": "ᱤᱱᱩᱠᱴᱤᱴᱩᱴ"
+	},
+	{
+	 "eng": "Inupiaq",
+	 "sat": "ᱤᱱᱩᱯᱤᱭᱟᱠ"
+	},
+	{
+	 "eng": "Irish",
+	 "sat": "ᱤᱨᱤᱥ"
+	},
+	{
+	 "eng": "Italian",
+	 "sat": "ᱤᱴᱟᱞᱤᱟᱱ"
+	},
+	{
+	 "eng": "Jamaican Creole English",
+	 "sat": "ᱡᱟᱢᱟᱭᱠᱟᱱ ᱠᱨᱮᱚᱞᱮ ᱤᱝᱞᱤᱥ"
+	},
+	{
+	 "eng": "Japanese",
+	 "sat": "ᱡᱟᱯᱟᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Javanese",
+	 "sat": "ᱡᱟᱣᱟᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Jju",
+	 "sat": "ᱡᱩ"
+	},
+	{
+	 "eng": "Jola-Fonyi",
+	 "sat": "ᱡᱚᱞᱟᱼᱯᱷᱚᱱᱭᱤ"
+	},
+	{
+	 "eng": "Judeo-Arabic",
+	 "sat": "ᱡᱩᱰᱤᱭᱚᱼᱟᱹᱨᱵᱤ"
+	},
+	{
+	 "eng": "Judeo-Persian",
+	 "sat": "ᱡᱩᱰᱤᱭᱚᱼᱯᱟᱹᱨᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Jutish",
+	 "sat": "ᱡᱤᱴᱤᱥ"
+	},
+	{
+	 "eng": "Kabardian",
+	 "sat": "ᱠᱟᱵᱟᱨᱰᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Kabuverdianu",
+	 "sat": "ᱠᱟᱵᱩᱣᱟᱹᱨᱰᱤᱭᱟᱹᱱᱩ"
+	},
+	{
+	 "eng": "Kabyle",
+	 "sat": "ᱠᱟᱵᱮᱞ"
+	},
+	{
+	 "eng": "Kachin",
+	 "sat": "ᱠᱟᱪᱤᱱ"
+	},
+	{
+	 "eng": "Kaingang",
+	 "sat": "ᱠᱟᱭᱮᱱᱜᱮᱝ"
+	},
+	{
+	 "eng": "Kako",
+	 "sat": "ᱠᱟᱠᱚ"
+	},
+	{
+	 "eng": "Kalaallisut",
+	 "sat": "ᱠᱟᱞᱟᱞᱤᱥᱩᱴ"
+	},
+	{
+	 "eng": "Kalenjin",
+	 "sat": "ᱠᱟᱞᱮᱱᱡᱤᱱ"
+	},
+	{
+	 "eng": "Kalmyk",
+	 "sat": "ᱠᱟᱞᱢᱤᱠ"
+	},
+	{
+	 "eng": "Kamba",
+	 "sat": "ᱠᱟᱢᱵᱟ"
+	},
+	{
+	 "eng": "Kanembu",
+	 "sat": "ᱠᱟᱱᱮᱢᱵᱩ"
+	},
+	{
+	 "eng": "Kannada",
+	 "sat": "ᱠᱟᱱᱟᱰᱟ"
+	},
+	{
+	 "eng": "Kanuri",
+	 "sat": "ᱠᱟᱱᱩᱨᱤ"
+	},
+	{
+	 "eng": "Kara-Kalpak",
+	 "sat": "ᱠᱟᱨᱟᱼᱠᱟᱞᱯᱟᱠ"
+	},
+	{
+	 "eng": "Karachay-Balkar",
+	 "sat": "ᱠᱟᱨᱟᱪᱷᱮᱼᱵᱟᱞᱠᱟᱨ"
+	},
+	{
+	 "eng": "Karelian",
+	 "sat": "ᱠᱟᱨᱮᱞᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Kashmiri",
+	 "sat": "ᱠᱟᱹᱥᱢᱤᱨᱤ"
+	},
+	{
+	 "eng": "Kashubian",
+	 "sat": "ᱠᱩᱥᱩᱵᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Kawi",
+	 "sat": "ᱠᱟᱣᱤ"
+	},
+	{
+	 "eng": "Kazakh",
+	 "sat": "ᱠᱟᱡᱟᱠᱷ"
+	},
+	{
+	 "eng": "Kenyang",
+	 "sat": "ᱠᱮᱱᱭᱟᱱ"
+	},
+	{
+	 "eng": "Khasi",
+	 "sat": "ᱠᱷᱟᱥᱤ"
+	},
+	{
+	 "eng": "Khmer",
+	 "sat": "ᱠᱷᱢᱮᱨ"
+	},
+	{
+	 "eng": "Khotanese",
+	 "sat": "ᱠᱷᱚᱴᱟᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Khowar",
+	 "sat": "ᱠᱷᱚᱣᱟᱨ"
+	},
+	{
+	 "eng": "Kikuyu",
+	 "sat": "ᱠᱤᱠᱩᱭᱩ"
+	},
+	{
+	 "eng": "Kimbundu",
+	 "sat": "ᱠᱤᱢᱵᱩᱱᱰᱩ"
+	},
+	{
+	 "eng": "Kinaray-a",
+	 "sat": "ᱠᱤᱱᱟᱨᱮᱼᱭᱟ"
+	},
+	{
+	 "eng": "Kinyarwanda",
+	 "sat": "ᱠᱤᱱᱭᱟᱨᱣᱟᱱᱰᱟ"
+	},
+	{
+	 "eng": "Kirmanjki",
+	 "sat": "ᱠᱤᱨᱢᱟᱱᱡᱽᱠᱤ"
+	},
+	{
+	 "eng": "Klingon",
+	 "sat": "ᱠᱞᱤᱝᱜᱚᱱ"
+	},
+	{
+	 "eng": "Kom",
+	 "sat": "ᱠᱚᱢ"
+	},
+	{
+	 "eng": "Komi",
+	 "sat": "ᱠᱚᱢᱤ"
+	},
+	{
+	 "eng": "Komi-Permyak",
+	 "sat": "ᱠᱚᱢᱤᱼᱡᱟᱹᱨᱢᱤᱭᱟᱠ"
+	},
+	{
+	 "eng": "Kongo",
+	 "sat": "ᱠᱚᱝᱜᱚ"
+	},
+	{
+	 "eng": "Konkani",
+	 "sat": "ᱠᱚᱱᱠᱟᱱᱤ"
+	},
+	{
+	 "eng": "Korean",
+	 "sat": "ᱠᱚᱨᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Koro",
+	 "sat": "ᱠᱚᱨᱚ"
+	},
+	{
+	 "eng": "Kosraean",
+	 "sat": "ᱠᱚᱥᱨᱟᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Kotava",
+	 "sat": "ᱠᱚᱴᱟᱣᱟ"
+	},
+	{
+	 "eng": "Koyra Chiini",
+	 "sat": "ᱠᱚᱭᱨᱟ ᱪᱷᱤᱱᱤ"
+	},
+	{
+	 "eng": "Koyraboro Senni",
+	 "sat": "ᱠᱚᱭᱨᱟᱵᱚᱨᱚ ᱥᱮᱱᱤ"
+	},
+	{
+	 "eng": "Kpelle",
+	 "sat": "ᱯᱮᱞᱮ"
+	},
+	{
+	 "eng": "Krio",
+	 "sat": "ᱠᱨᱤᱭᱚ"
+	},
+	{
+	 "eng": "Kuanyama",
+	 "sat": "ᱠᱩᱣᱟᱱᱭᱟᱢᱟ"
+	},
+	{
+	 "eng": "Kumyk",
+	 "sat": "ᱠᱩᱢᱤᱠ"
+	},
+	{
+	 "eng": "Kurdish",
+	 "sat": "ᱠᱩᱨᱫᱤᱥ"
+	},
+	{
+	 "eng": "Kurukh",
+	 "sat": "ᱠᱩᱨᱩᱠᱷ"
+	},
+	{
+	 "eng": "Kutenai",
+	 "sat": "ᱠᱩᱴᱮᱱᱟᱭ"
+	},
+	{
+	 "eng": "Kwasio",
+	 "sat": "ᱠᱣᱟᱥᱤᱭᱚ"
+	},
+	{
+	 "eng": "Kyrgyz",
+	 "sat": "ᱠᱤᱨᱜᱤᱡᱽ"
+	},
+	{
+	 "eng": "Kirghiz",
+	 "sat": "ᱠᱤᱨᱜᱷᱤᱡᱽ"
+	},
+	{
+	 "eng": "Kʼicheʼ",
+	 "sat": "ᱠᱤᱪᱮ"
+	},
+	{
+	 "eng": "Ladino",
+	 "sat": "ᱞᱟᱰᱤᱱᱚ"
+	},
+	{
+	 "eng": "Lahnda",
+	 "sat": "ᱞᱟᱦᱟᱱᱰᱟ"
+	},
+	{
+	 "eng": "Lakota",
+	 "sat": "ᱞᱟᱠᱚᱴᱟ"
+	},
+	{
+	 "eng": "Lamba",
+	 "sat": "ᱞᱟᱢᱵᱟ"
+	},
+	{
+	 "eng": "Langi",
+	 "sat": "ᱞᱟᱝᱜᱤ"
+	},
+	{
+	 "eng": "Lao",
+	 "sat": "ᱞᱟᱣ"
+	},
+	{
+	 "eng": "Latgalian",
+	 "sat": "ᱞᱟᱴᱜᱟᱞᱤᱞᱟᱹᱱ"
+	},
+	{
+	 "eng": "Latin",
+	 "sat": "ᱞᱟᱤᱱ"
+	},
+	{
+	 "eng": "Latvian",
+	 "sat": "ᱞᱟᱴᱤᱣᱟᱱ"
+	},
+	{
+	 "eng": "Laz",
+	 "sat": "ᱞᱟᱡᱽ"
+	},
+	{
+	 "eng": "Lezghian",
+	 "sat": "ᱞᱮᱡᱽᱜᱷᱤᱭᱟᱱ"
+	},
+	{
+	 "eng": "Ligurian",
+	 "sat": "ᱞᱤᱜᱩᱨᱤᱭᱟᱱ"
+	},
+	{
+	 "eng": "Limburgish",
+	 "sat": "ᱞᱤᱢᱵᱩᱨᱜᱤᱥ"
+	},
+	{
+	 "eng": "Lingala",
+	 "sat": "ᱞᱤᱱᱜᱟᱞᱟ"
+	},
+	{
+	 "eng": "Lingua Franca Nova",
+	 "sat": "ᱞᱤᱱᱜᱩᱣᱟ ᱯᱷᱨᱟᱱᱠᱟ ᱱᱚᱣᱟ"
+	},
+	{
+	 "eng": "Literary Chinese",
+	 "sat": "ᱞᱤᱴᱟᱹᱨᱟᱨᱤ ᱪᱟᱭᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Lithuanian",
+	 "sat": "ᱞᱤᱛᱷᱩᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Livonian",
+	 "sat": "ᱞᱤᱣᱚᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Lojban",
+	 "sat": "ᱞᱚᱡᱽᱵᱟᱱ"
+	},
+	{
+	 "eng": "Lombard",
+	 "sat": "ᱞᱚᱢᱵᱟᱨᱰ"
+	},
+	{
+	 "eng": "Louisiana Creole",
+	 "sat": "ᱞᱩᱭᱥᱤᱭᱟᱱᱟ ᱠᱨᱮᱚᱞᱮ"
+	},
+	{
+	 "eng": "Low German",
+	 "sat": "ᱞᱚ ᱡᱟᱹᱨᱢᱟᱹᱱ"
+	},
+	{
+	 "eng": "Low Saxon",
+	 "sat": "ᱞᱚ ᱥᱟᱠᱥᱚᱱ"
+	},
+	{
+	 "eng": "Lower Silesian",
+	 "sat": "ᱞᱚᱣᱟᱹᱨ ᱥᱤᱞᱮᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Lower Sorbian",
+	 "sat": "ᱞᱚᱣᱟᱹᱨ ᱥᱚᱨᱵᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Lozi",
+	 "sat": "ᱞᱚᱡᱤ"
+	},
+	{
+	 "eng": "Luba-Katanga",
+	 "sat": "ᱞᱩᱵᱟᱼᱠᱟᱹᱡᱟᱹᱝᱜᱟ"
+	},
+	{
+	 "eng": "Luba-Lulua",
+	 "sat": "ᱞᱩᱵᱟᱼᱞᱩᱞᱩᱣᱟ"
+	},
+	{
+	 "eng": "Luiseno",
+	 "sat": "ᱞᱩᱣᱤᱥᱮᱱᱚ"
+	},
+	{
+	 "eng": "Lule Sami",
+	 "sat": "ᱞᱩᱞᱮ ᱥᱟᱢᱤ"
+	},
+	{
+	 "eng": "Lunda",
+	 "sat": "ᱞᱩᱱᱰᱟ"
+	},
+	{
+	 "eng": "Luo",
+	 "sat": "ᱞᱣᱚ"
+	},
+	{
+	 "eng": "Luxembourgish",
+	 "sat": "ᱞᱩᱠᱥᱮᱢᱵᱚᱨᱜᱤᱥ"
+	},
+	{
+	 "eng": "Luyia",
+	 "sat": "ᱞᱩᱭᱤᱭᱟ"
+	},
+	{
+	 "eng": "Maba",
+	 "sat": "ᱢᱟᱵᱟ"
+	},
+	{
+	 "eng": "Macedonian",
+	 "sat": "ᱢᱟᱥᱮᱰᱚᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Machame",
+	 "sat": "ᱢᱟᱹᱪᱢᱮ"
+	},
+	{
+	 "eng": "Madurese",
+	 "sat": "ᱢᱟᱱᱰᱩᱨᱤᱡᱽ"
+	},
+	{
+	 "eng": "Mafa",
+	 "sat": "ᱢᱟᱯᱷᱟ"
+	},
+	{
+	 "eng": "Magahi",
+	 "sat": "ᱢᱟᱜᱟᱦᱤ"
+	},
+	{
+	 "eng": "Main-Franconian",
+	 "sat": "ᱢᱮᱱᱼᱯᱷᱨᱟᱱᱠᱚᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Maithili",
+	 "sat": "ᱢᱟᱹᱭᱛᱷᱤᱞᱤ"
+	},
+	{
+	 "eng": "Makasar",
+	 "sat": "ᱢᱟᱠᱟᱥᱟᱨ"
+	},
+	{
+	 "eng": "Makhuwa-Meetto",
+	 "sat": "ᱢᱟᱠᱷᱩᱣᱟᱼᱢᱤᱴᱩ"
+	},
+	{
+	 "eng": "Makonde",
+	 "sat": "ᱢᱟᱠᱚᱱᱰᱮ"
+	},
+	{
+	 "eng": "Malagasy",
+	 "sat": "ᱢᱟᱞᱟᱜᱟᱥᱭ"
+	},
+	{
+	 "eng": "Malay",
+	 "sat": "ᱢᱟᱞᱟᱭ"
+	},
+	{
+	 "eng": "Malayalam",
+	 "sat": "ᱢᱟᱞᱟᱭᱟᱞᱟᱹᱢ"
+	},
+	{
+	 "eng": "Maltese",
+	 "sat": "ᱢᱟᱞᱴᱤᱡᱽ"
+	},
+	{
+	 "eng": "Manchu",
+	 "sat": "ᱢᱟᱱᱪᱷᱩ"
+	},
+	{
+	 "eng": "Mandar",
+	 "sat": "ᱢᱟᱱᱰᱟᱨ"
+	},
+	{
+	 "eng": "Mandingo",
+	 "sat": "ᱢᱟᱱᱰᱤᱱᱜᱚ"
+	},
+	{
+	 "eng": "Manipuri",
+	 "sat": "ᱢᱟᱹᱱᱤᱯᱩᱨᱤ"
+	},
+	{
+	 "eng": "Manx",
+	 "sat": "ᱢᱟᱝᱠᱥ"
+	},
+	{
+	 "eng": "Māori",
+	 "sat": "ᱢᱟᱣᱨᱤ"
+	},
+	{
+	 "eng": "Mapuche",
+	 "sat": "ᱢᱟᱯᱩᱪᱷᱮ"
+	},
+	{
+	 "eng": "Marathi",
+	 "sat": "ᱢᱟᱨᱟᱴᱷᱤ"
+	},
+	{
+	 "eng": "Mari",
+	 "sat": "ᱢᱟᱨᱤ"
+	},
+	{
+	 "eng": "Marshallese",
+	 "sat": "ᱢᱟᱨᱥᱟᱯᱤᱥ"
+	},
+	{
+	 "eng": "Marwari",
+	 "sat": "ᱢᱟᱨᱣᱟᱨᱤ"
+	},
+	{
+	 "eng": "Masai",
+	 "sat": "ᱢᱟᱥᱟᱭ"
+	},
+	{
+	 "eng": "Mazanderani",
+	 "sat": "ᱢᱟᱡᱟᱱᱰᱮᱨᱟᱱᱤ"
+	},
+	{
+	 "eng": "Medumba",
+	 "sat": "ᱢᱮᱰᱩᱢᱵᱟ"
+	},
+	{
+	 "eng": "Mende",
+	 "sat": "ᱢᱮᱱᱰᱮ"
+	},
+	{
+	 "eng": "Mentawai",
+	 "sat": "ᱢᱮᱱᱴᱟᱣᱟᱭ"
+	},
+	{
+	 "eng": "Meru",
+	 "sat": "ᱢᱮᱨᱩ"
+	},
+	{
+	 "eng": "Metaʼ",
+	 "sat": "ᱢᱮᱴᱟ"
+	},
+	{
+	 "eng": "Mi'kmaq",
+	 "sat": "ᱢᱤᱠᱢᱟᱠ"
+	},
+	{
+	 "eng": "Middle Dutch",
+	 "sat": "ᱛᱟᱞᱟ ᱰᱚᱪ"
+	},
+	{
+	 "eng": "Middle English",
+	 "sat": "ᱛᱟᱞᱟ ᱤᱝᱨᱟᱡᱤ"
+	},
+	{
+	 "eng": "Middle French",
+	 "sat": "ᱛᱟᱞᱟ ᱯᱷᱨᱮᱸᱪ"
+	},
+	{
+	 "eng": "Middle High German",
+	 "sat": "ᱛᱟᱞᱟ ᱦᱟᱭ ᱡᱟᱹᱨᱢᱟᱹᱱ"
+	},
+	{
+	 "eng": "Middle Irish",
+	 "sat": "ᱛᱟᱞᱟ ᱤᱨᱤᱥ"
+	},
+	{
+	 "eng": "Min Nan Chinese",
+	 "sat": "ᱢᱤᱱ ᱱᱟᱱ ᱪᱟᱭᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Minangkabau",
+	 "sat": "ᱢᱤᱱᱟᱝᱠᱟᱵᱩ"
+	},
+	{
+	 "eng": "Mingrelian",
+	 "sat": "ᱢᱤᱱᱜᱽᱨᱮᱞᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Mirandese",
+	 "sat": "ᱢᱤᱨᱟᱱᱰᱤᱡᱽ"
+	},
+	{
+	 "eng": "Mizo",
+	 "sat": "ᱢᱤᱡᱚ"
+	},
+	{
+	 "eng": "Mohawk",
+	 "sat": "ᱢᱚᱦᱟᱣᱟᱠ"
+	},
+	{
+	 "eng": "Moksha",
+	 "sat": "ᱢᱚᱠᱥᱷᱟ"
+	},
+	{
+	 "eng": "Mongo",
+	 "sat": "ᱢᱚᱱᱜᱚ"
+	},
+	{
+	 "eng": "Mongolian",
+	 "sat": "ᱢᱚᱱᱜᱚᱞᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Morisyen",
+	 "sat": "ᱢᱚᱨᱤᱥᱭᱮᱱ"
+	},
+	{
+	 "eng": "Moroccan Arabic",
+	 "sat": "ᱢᱚᱨᱚᱠᱟᱱ ᱟᱹᱨᱵᱤ"
+	},
+	{
+	 "eng": "Mossi",
+	 "sat": "ᱢᱚᱥᱤ"
+	},
+	{
+	 "eng": "Multiple languages",
+	 "sat": "ᱟᱭᱢᱟ ᱯᱟᱹᱨᱤ"
+	},
+	{
+	 "eng": "Mundang",
+	 "sat": "ᱢᱩᱱᱰᱟᱹᱜᱽ"
+	},
+	{
+	 "eng": "Muscogee",
+	 "sat": "ᱢᱩᱥᱠᱚᱜᱤ"
+	},
+	{
+	 "eng": "Muslim Tat",
+	 "sat": "ᱢᱩᱥᱞᱤᱢ ᱴᱟᱴ"
+	},
+	{
+	 "eng": "Myene",
+	 "sat": "ᱢᱟᱭᱤᱱ"
+	},
+	{
+	 "eng": "N’Ko",
+	 "sat": "ᱮᱱ ᱠᱚ"
+	},
+	{
+	 "eng": "Najdi Arabic",
+	 "sat": "ᱱᱟᱡᱫᱤ ᱟᱹᱨᱵᱤᱠ"
+	},
+	{
+	 "eng": "Arabic, Najdi",
+	 "sat": "ᱟᱹᱨᱵᱤ, ᱱᱟᱹᱡᱽᱫᱤ"
+	},
+	{
+	 "eng": "Nama",
+	 "sat": "ᱱᱟᱢᱟ"
+	},
+	{
+	 "eng": "Nauru",
+	 "sat": "ᱱᱟᱩᱨᱩ"
+	},
+	{
+	 "eng": "Navajo",
+	 "sat": "ᱱᱟᱣᱟᱡᱚ"
+	},
+	{
+	 "eng": "Ndonga",
+	 "sat": "ᱰᱚᱱᱜᱟ"
+	},
+	{
+	 "eng": "Neapolitan",
+	 "sat": "ᱱᱤᱭᱟᱯᱚᱞᱤᱴᱟᱱ"
+	},
+	{
+	 "eng": "Nepali",
+	 "sat": "ᱱᱮᱯᱟᱯᱤ"
+	},
+	{
+	 "eng": "Newari",
+	 "sat": "ᱱᱮᱣᱟᱨᱤ"
+	},
+	{
+	 "eng": "Ngambay",
+	 "sat": "ᱱᱟᱢᱵᱮ"
+	},
+	{
+	 "eng": "Ngiemboon",
+	 "sat": "ᱱᱤᱭᱟᱹᱱᱵᱩᱱ"
+	},
+	{
+	 "eng": "Ngomba",
+	 "sat": "ᱜᱚᱢᱵᱟ"
+	},
+	{
+	 "eng": "Nheengatu",
+	 "sat": "ᱱᱷᱤᱱᱜᱟᱴᱩ"
+	},
+	{
+	 "eng": "Nias",
+	 "sat": "ᱱᱤᱭᱟᱥ"
+	},
+	{
+	 "eng": "Nigerian Pidgin",
+	 "sat": "ᱱᱟᱭᱡᱮᱨᱤᱭᱟᱹᱱ ᱯᱤᱰᱜᱤᱱ"
+	},
+	{
+	 "eng": "Niuean",
+	 "sat": "ᱱᱤᱣᱮᱱ"
+	},
+	{
+	 "eng": "No linguistic content",
+	 "sat": "ᱚᱠᱟ ᱯᱟᱹᱨᱥᱤ ᱵᱟᱹᱱᱩᱜᱼᱟ"
+	},
+	{
+	 "eng": "Nogai",
+	 "sat": "ᱱᱚᱜᱟᱭ"
+	},
+	{
+	 "eng": "North Ndebele",
+	 "sat": "ᱮᱛᱚᱢ ᱱᱮᱵᱮᱞᱮ"
+	},
+	{
+	 "eng": "Northern Frisian",
+	 "sat": "ᱮᱛᱚᱢ ᱯᱷᱨᱤᱥᱤᱭᱟᱱ"
+	},
+	{
+	 "eng": "Northern Luri",
+	 "sat": "ᱮᱛᱚᱢ ᱯᱩᱨᱤ"
+	},
+	{
+	 "eng": "Northern Sami",
+	 "sat": "ᱮᱛᱚᱢ ᱥᱟᱢᱤ"
+	},
+	{
+	 "eng": "Northern Sotho",
+	 "sat": "ᱮᱛᱚᱢ ᱥᱚᱛᱷᱚ"
+	},
+	{
+	 "eng": "Norwegian",
+	 "sat": "ᱱᱚᱨᱣᱮᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Norwegian Bokmål",
+	 "sat": "ᱱᱚᱨᱣᱮᱭᱟᱹᱱ ᱵᱚᱠᱢᱟᱞ"
+	},
+	{
+	 "eng": "Norwegian Nynorsk",
+	 "sat": "ᱱᱚᱨᱣᱮᱭᱟᱹᱱ ᱱᱟᱭᱱᱟᱨᱥᱠ"
+	},
+	{
+	 "eng": "Novial",
+	 "sat": "ᱱᱚᱣᱤᱭᱟᱞ"
+	},
+	{
+	 "eng": "Nuer",
+	 "sat": "ᱱᱩᱮᱨ"
+	},
+	{
+	 "eng": "Nyamwezi",
+	 "sat": "ᱱᱭᱟᱢᱣᱮᱡᱤ"
+	},
+	{
+	 "eng": "Nyanja",
+	 "sat": "ᱱᱭᱟᱱᱡᱟ"
+	},
+	{
+	 "eng": "Nyankole",
+	 "sat": "ᱱᱭᱟᱱᱠᱚᱞᱮ"
+	},
+	{
+	 "eng": "Nyasa Tonga",
+	 "sat": "ᱱᱭᱟᱥᱟ ᱴᱚᱱᱜᱟ"
+	},
+	{
+	 "eng": "Nyoro",
+	 "sat": "ᱱᱭᱚᱨᱚ"
+	},
+	{
+	 "eng": "Nzima",
+	 "sat": "ᱡᱤᱢᱟ"
+	},
+	{
+	 "eng": "Occitan",
+	 "sat": "ᱳᱥᱤᱴᱟᱱ"
+	},
+	{
+	 "eng": "Odia",
+	 "sat": "ᱳᱰᱤᱭᱟ"
+	},
+	{
+	 "eng": "Ojibwa",
+	 "sat": "ᱳᱡᱤᱵᱽᱣᱟ"
+	},
+	{
+	 "eng": "Old English",
+	 "sat": "ᱢᱟᱨᱮ ᱤᱝᱞᱤᱥ"
+	},
+	{
+	 "eng": "Old French",
+	 "sat": "ᱢᱟᱨᱮ ᱯᱷᱨᱮᱧᱪ"
+	},
+	{
+	 "eng": "Old High German",
+	 "sat": "ᱢᱟᱨᱮ ᱩᱥᱩᱞ ᱡᱟᱹᱨᱢᱟᱹᱱ"
+	},
+	{
+	 "eng": "Old Irish",
+	 "sat": "ᱢᱟᱨᱮ ᱤᱨᱤᱥ"
+	},
+	{
+	 "eng": "Old Norse",
+	 "sat": "ᱢᱟᱨᱮ ᱱᱚᱨᱥ"
+	},
+	{
+	 "eng": "Old Persian",
+	 "sat": "ᱢᱟᱨᱮ ᱯᱟᱹᱨᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Old Provençal",
+	 "sat": "ᱢᱟᱨᱮ ᱯᱨᱚᱵᱷᱮᱱᱠᱟᱞ"
+	},
+	{
+	 "eng": "Oromo",
+	 "sat": "ᱳᱨᱚᱢᱚ"
+	},
+	{
+	 "eng": "Osage",
+	 "sat": "ᱳᱥᱮᱜᱽ"
+	},
+	{
+	 "eng": "Ossetic",
+	 "sat": "ᱳᱥᱮᱴᱤᱠ"
+	},
+	{
+	 "eng": "Ottoman Turkish",
+	 "sat": "ᱳᱴᱚᱢᱟᱱ ᱴᱟᱹᱨᱠᱤᱥ"
+	},
+	{
+	 "eng": "Pahlavi",
+	 "sat": "ᱯᱟᱦᱞᱟᱹᱣᱤ"
+	},
+	{
+	 "eng": "Palatine German",
+	 "sat": "ᱯᱟᱞᱟᱴᱤᱱ ᱡᱟᱹᱨᱢᱟᱹᱱ"
+	},
+	{
+	 "eng": "Palauan",
+	 "sat": "ᱯᱟᱞᱟᱩᱣᱟᱱ"
+	},
+	{
+	 "eng": "Pali",
+	 "sat": "ᱯᱟᱞᱤ"
+	},
+	{
+	 "eng": "Pampanga",
+	 "sat": "ᱯᱟᱢᱯᱟᱱᱜᱟ"
+	},
+	{
+	 "eng": "Pangasinan",
+	 "sat": "ᱯᱟᱱᱜᱟᱥᱤᱱᱟᱱ"
+	},
+	{
+	 "eng": "Papiamento",
+	 "sat": "ᱯᱟᱯᱤᱭᱟᱢᱮᱱᱴᱚ"
+	},
+	{
+	 "eng": "Pashto",
+	 "sat": "ᱯᱟᱥᱛᱚ"
+	},
+	{
+	 "eng": "Pushto",
+	 "sat": "ᱯᱩᱥᱛᱚ"
+	},
+	{
+	 "eng": "Pennsylvania German",
+	 "sat": "ᱯᱮᱱᱭᱥᱮᱞᱵᱷᱤᱭᱟ ᱡᱟᱹᱨᱢᱟᱹᱱ"
+	},
+	{
+	 "eng": "Persian",
+	 "sat": "ᱯᱟᱹᱨᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Dari",
+	 "sat": "ᱰᱟᱨᱤ"
+	},
+	{
+	 "eng": "Phoenician",
+	 "sat": "ᱯᱷᱚᱮᱱᱤᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Picard",
+	 "sat": "ᱯᱤᱠᱟᱰ"
+	},
+	{
+	 "eng": "Piedmontese",
+	 "sat": "ᱯᱟᱭᱮᱰᱢᱚᱱᱴᱤᱡᱽ"
+	},
+	{
+	 "eng": "Plautdietsch",
+	 "sat": "ᱯᱞᱟᱣᱴᱰᱟᱭᱮᱴᱥᱪ"
+	},
+	{
+	 "eng": "Pohnpeian",
+	 "sat": "ᱯᱚᱦᱱᱯᱮᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Polish",
+	 "sat": "ᱯᱚᱞᱤᱥ"
+	},
+	{
+	 "eng": "Pontic",
+	 "sat": "ᱯᱚᱱᱴᱤᱠ"
+	},
+	{
+	 "eng": "Portuguese",
+	 "sat": "ᱯᱩᱨᱛᱜᱟᱞᱤ"
+	},
+	{
+	 "eng": "Brazilian Portuguese",
+	 "sat": "ᱵᱨᱟᱡᱤᱞᱤᱭᱟᱱ ᱯᱩᱨᱛᱜᱟᱞᱤ"
+	},
+	{
+	 "eng": "European Portuguese",
+	 "sat": "ᱭᱩᱨᱚᱯᱤᱭᱟᱱ ᱯᱩᱨᱛᱜᱟᱞᱤ"
+	},
+	{
+	 "eng": "Prussian",
+	 "sat": "ᱯᱨᱩᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Punjabi",
+	 "sat": "ᱯᱚᱧᱡᱟᱵᱤ"
+	},
+	{
+	 "eng": "Quechua",
+	 "sat": "ᱠᱣᱮᱪᱷᱩᱣᱟ"
+	},
+	{
+	 "eng": "Rajasthani",
+	 "sat": "ᱨᱟᱡᱚᱥᱛᱷᱟᱱᱤ"
+	},
+	{
+	 "eng": "Rapanui",
+	 "sat": "ᱨᱟᱯᱟᱩᱱᱤ"
+	},
+	{
+	 "eng": "Rarotongan",
+	 "sat": "ᱨᱟᱨᱚᱴᱚᱱᱜᱟᱱ"
+	},
+	{
+	 "eng": "Riffian",
+	 "sat": "ᱨᱤᱯᱷᱤᱭᱟᱱ"
+	},
+	{
+	 "eng": "Romagnol",
+	 "sat": "ᱨᱚᱢᱟᱝᱱᱚᱞ"
+	},
+	{
+	 "eng": "Romanian",
+	 "sat": "ᱨᱚᱢᱟᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Moldavian",
+	 "sat": "ᱢᱚᱞᱰᱟᱵᱷᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Romansh",
+	 "sat": "ᱨᱚᱢᱟᱱᱥ"
+	},
+	{
+	 "eng": "Romany",
+	 "sat": "ᱨᱚᱢᱟᱱᱭ"
+	},
+	{
+	 "eng": "Rombo",
+	 "sat": "ᱨᱚᱢᱵᱚ"
+	},
+	{
+	 "eng": "Rotuman",
+	 "sat": "ᱨᱚᱴᱩᱢᱟᱱ"
+	},
+	{
+	 "eng": "Roviana",
+	 "sat": "ᱨᱚᱣᱤᱭᱟᱱᱟ"
+	},
+	{
+	 "eng": "Rundi",
+	 "sat": "ᱨᱩᱱᱰᱤ"
+	},
+	{
+	 "eng": "Russian",
+	 "sat": "ᱨᱩᱥᱤᱭᱟᱱ"
+	},
+	{
+	 "eng": "Rusyn",
+	 "sat": "ᱨᱩᱥᱤᱱ"
+	},
+	{
+	 "eng": "Rwa",
+	 "sat": "ᱨᱣᱟ"
+	},
+	{
+	 "eng": "Saho",
+	 "sat": "ᱥᱟᱦᱚ"
+	},
+	{
+	 "eng": "Sakha",
+	 "sat": "ᱥᱟᱠᱷᱟ"
+	},
+	{
+	 "eng": "Samaritan Aramaic",
+	 "sat": "ᱥᱟᱢᱟᱨᱤᱴᱟᱱ ᱟᱨᱟᱢᱟᱭᱤᱠ"
+	},
+	{
+	 "eng": "Samburu",
+	 "sat": "ᱥᱟᱢᱵᱩᱨᱩ"
+	},
+	{
+	 "eng": "Samoan",
+	 "sat": "ᱥᱟᱢᱚᱣᱟᱱ"
+	},
+	{
+	 "eng": "Samogitian",
+	 "sat": "ᱥᱟᱢᱚᱜᱤᱛᱤᱭᱟᱱ"
+	},
+	{
+	 "eng": "Sandawe",
+	 "sat": "ᱥᱟᱱᱰᱟᱣᱮ"
+	},
+	{
+	 "eng": "Sango",
+	 "sat": "ᱥᱟᱱᱜᱚ"
+	},
+	{
+	 "eng": "Sangu",
+	 "sat": "ᱥᱟᱱᱜᱩ"
+	},
+	{
+	 "eng": "Sanskrit",
+	 "sat": "ᱥᱟᱹᱱᱥᱠᱨᱤᱛ"
+	},
+	{
+	 "eng": "Santali",
+	 "sat": "ᱥᱟᱱᱛᱟᱲᱤ"
+	},
+	{
+	 "eng": "Santhali",
+	 "sat": "ᱥᱟᱱᱛᱷᱟᱞᱤ"
+	},
+	{
+	 "eng": "Santali",
+	 "sat": "ᱥᱟᱱᱛᱟᱞᱤ"
+	},
+	{
+	 "eng": "Sardinian",
+	 "sat": "ᱥᱟᱨᱰᱤᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Sasak",
+	 "sat": "ᱥᱟᱥᱟᱠ"
+	},
+	{
+	 "eng": "Sassarese Sardinian",
+	 "sat": "ᱥᱟᱥᱟᱨᱤᱥ ᱥᱟᱨᱰᱤᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Saterland Frisian",
+	 "sat": "ᱥᱟᱛᱮᱨᱞᱮᱸᱱᱰ ᱯᱷᱨᱤᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Saurashtra",
+	 "sat": "ᱥᱟᱣᱨᱟᱥᱴᱨᱚ"
+	},
+	{
+	 "eng": "Scots",
+	 "sat": "ᱥᱠᱚᱴᱥ"
+	},
+	{
+	 "eng": "Scottish Gaelic",
+	 "sat": "ᱥᱠᱚᱴᱤᱥ ᱜᱮᱞᱤᱠ"
+	},
+	{
+	 "eng": "Selayar",
+	 "sat": "ᱥᱮᱞᱟᱭᱟᱨ"
+	},
+	{
+	 "eng": "Selkup",
+	 "sat": "ᱥᱮᱞᱠᱟᱹᱯ"
+	},
+	{
+	 "eng": "Sena",
+	 "sat": "ᱥᱮᱱᱟ"
+	},
+	{
+	 "eng": "Seneca",
+	 "sat": "ᱥᱮᱱᱮᱠᱟ"
+	},
+	{
+	 "eng": "Serbian",
+	 "sat": "ᱥᱟᱹᱨᱵᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Montenegrin",
+	 "sat": "ᱢᱚᱱᱴᱮᱱᱮᱜᱽᱨᱤᱱ"
+	},
+	{
+	 "eng": "Serbo-Croatian",
+	 "sat": "ᱥᱟᱹᱨᱵᱚᱼᱠᱨᱚᱮᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Serer",
+	 "sat": "ᱥᱮᱨᱮᱨ"
+	},
+	{
+	 "eng": "Seri",
+	 "sat": "ᱥᱮᱨᱤ"
+	},
+	{
+	 "eng": "Seselwa Creole French",
+	 "sat": "ᱥᱮᱥᱮᱞᱣᱟ ᱠᱨᱮᱚᱞᱮ ᱯᱷᱨᱮᱧᱪ"
+	},
+	{
+	 "eng": "Shambala",
+	 "sat": "ᱥᱟᱹᱢᱵᱟᱞᱟ"
+	},
+	{
+	 "eng": "Shan",
+	 "sat": "ᱥᱟᱱ"
+	},
+	{
+	 "eng": "Shona",
+	 "sat": "ᱥᱚᱱᱟ"
+	},
+	{
+	 "eng": "Sichuan Yi",
+	 "sat": "ᱥᱤᱪᱷᱩᱣᱟᱱ ᱭᱤ"
+	},
+	{
+	 "eng": "Sicilian",
+	 "sat": "ᱥᱟᱭᱪᱤᱞᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Sidamo",
+	 "sat": "ᱥᱤᱰᱟᱢᱚ"
+	},
+	{
+	 "eng": "Siksika",
+	 "sat": "ᱥᱤᱠᱥᱤᱠᱟ"
+	},
+	{
+	 "eng": "Silesian",
+	 "sat": "ᱥᱤᱞᱮᱥᱤᱭᱟᱱ"
+	},
+	{
+	 "eng": "Sindhi",
+	 "sat": "ᱥᱤᱱᱫᱷᱤ"
+	},
+	{
+	 "eng": "Sinhala",
+	 "sat": "ᱥᱤᱱᱦᱟᱞᱟ"
+	},
+	{
+	 "eng": "Skolt Sami",
+	 "sat": "ᱥᱠᱚᱞᱴ ᱥᱟᱢᱤ"
+	},
+	{
+	 "eng": "Slave",
+	 "sat": "ᱥᱞᱮᱣ"
+	},
+	{
+	 "eng": "Slovak",
+	 "sat": "ᱥᱞᱚᱣᱟᱠ"
+	},
+	{
+	 "eng": "Slovenian",
+	 "sat": "ᱥᱞᱚᱣᱮᱱᱤᱭᱟᱱ"
+	},
+	{
+	 "eng": "Soga",
+	 "sat": "ᱥᱚᱜᱟ"
+	},
+	{
+	 "eng": "Sogdien",
+	 "sat": "ᱥᱚᱜᱽᱰᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Somali",
+	 "sat": "ᱥᱚᱢᱟᱞᱤ"
+	},
+	{
+	 "eng": "Soninke",
+	 "sat": "ᱥᱚᱱᱤᱱᱠᱮ"
+	},
+	{
+	 "eng": "South Ndebele",
+	 "sat": "ᱠᱚᱸᱭᱮ ᱱᱮᱵᱮᱞᱮ"
+	},
+	{
+	 "eng": "Southern Altai",
+	 "sat": "ᱠᱚᱸᱭᱮ ᱟᱹᱞᱛᱟᱭ"
+	},
+	{
+	 "eng": "Southern Kurdish",
+	 "sat": "ᱠᱚᱸᱭᱮ ᱠᱩᱨᱫᱤᱥ"
+	},
+	{
+	 "eng": "Southern Sami",
+	 "sat": "ᱠᱚᱸᱭᱮ ᱥᱟᱢᱤ"
+	},
+	{
+	 "eng": "Southern Sotho",
+	 "sat": "ᱠᱚᱸᱭᱮ ᱥᱚᱛᱷᱚ"
+	},
+	{
+	 "eng": "Spanish",
+	 "sat": "ᱥᱯᱮᱱᱤᱥ"
+	},
+	{
+	 "eng": "Latin American Spanish",
+	 "sat": "ᱞᱮᱴᱤᱱ ᱟᱢᱮᱨᱤᱠᱟᱱ ᱥᱯᱮᱱᱤᱥ"
+	},
+	{
+	 "eng": "European Spanish",
+	 "sat": "ᱭᱩᱨᱚᱯᱤᱭᱟᱹᱱ ᱥᱯᱮᱱᱤᱥ"
+	},
+	{
+	 "eng": "Mexican Spanish",
+	 "sat": "ᱢᱮᱠᱥᱤᱠᱟᱱ ᱥᱯᱮᱱᱤᱥ"
+	},
+	{
+	 "eng": "Sranan Tongo",
+	 "sat": "ᱥᱨᱟᱱᱟᱱ ᱴᱚᱝᱜᱚ"
+	},
+	{
+	 "eng": "Standard Moroccan Tamazight",
+	 "sat": "ᱢᱟᱱᱚᱠ ᱢᱚᱨᱚᱠᱟᱱ ᱴᱟᱢᱟᱡᱤᱜᱷᱛ"
+	},
+	{
+	 "eng": "Sukuma",
+	 "sat": "ᱥᱩᱠᱤᱢᱟ"
+	},
+	{
+	 "eng": "Sumerian",
+	 "sat": "ᱥᱩᱢᱮᱨᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Sundanese",
+	 "sat": "ᱥᱩᱱᱰᱟᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Susu",
+	 "sat": "ᱥᱩᱥᱩ"
+	},
+	{
+	 "eng": "Swahili",
+	 "sat": "ᱥᱣᱟᱦᱤᱞᱤ"
+	},
+	{
+	 "eng": "Congo Swahili",
+	 "sat": "ᱠᱚᱝᱜᱚ ᱥᱣᱟᱦᱤᱞᱤ"
+	},
+	{
+	 "eng": "Swati",
+	 "sat": "ᱥᱣᱟᱛᱤ"
+	},
+	{
+	 "eng": "Swedish",
+	 "sat": "ᱥᱣᱮᱫᱤᱥ"
+	},
+	{
+	 "eng": "Swiss German",
+	 "sat": "ᱥᱣᱤᱥ ᱡᱟᱹᱨᱢᱟᱹᱱ"
+	},
+	{
+	 "eng": "Syriac",
+	 "sat": "ᱥᱭᱨᱤᱭᱟᱠ"
+	},
+	{
+	 "eng": "Tachelhit",
+	 "sat": "ᱴᱟᱠᱪᱮᱞᱦᱤᱛ"
+	},
+	{
+	 "eng": "Tagalog",
+	 "sat": "ᱴᱟᱜᱟᱞᱚᱜ"
+	},
+	{
+	 "eng": "Tahitian",
+	 "sat": "ᱴᱟᱤᱚᱳᱮᱚᱯᱳᱮ"
+	},
+	{
+	 "eng": "Taita",
+	 "sat": "ᱴᱟᱭᱴᱟ"
+	},
+	{
+	 "eng": "Tajik",
+	 "sat": "ᱛᱟᱡᱤᱠ"
+	},
+	{
+	 "eng": "Talysh",
+	 "sat": "ᱛᱟᱞᱤᱥ"
+	},
+	{
+	 "eng": "Tamashek",
+	 "sat": "ᱛᱟᱢᱟᱥᱮᱠᱷ"
+	},
+	{
+	 "eng": "Tamil",
+	 "sat": "ᱛᱟᱢᱤᱞ"
+	},
+	{
+	 "eng": "Taroko",
+	 "sat": "ᱛᱟᱨᱚᱠᱚ"
+	},
+	{
+	 "eng": "Tasawaq",
+	 "sat": "ᱛᱟᱮᱟᱣᱟᱠ"
+	},
+	{
+	 "eng": "Tatar",
+	 "sat": "ᱴᱟᱴᱚᱨ"
+	},
+	{
+	 "eng": "Telugu",
+	 "sat": "ᱛᱮᱞᱜᱩ"
+	},
+	{
+	 "eng": "Tereno",
+	 "sat": "ᱛᱮᱨᱮᱱᱚ"
+	},
+	{
+	 "eng": "Teso",
+	 "sat": "ᱴᱮᱥᱚ"
+	},
+	{
+	 "eng": "Tetum",
+	 "sat": "ᱴᱮᱴᱩᱢ"
+	},
+	{
+	 "eng": "Thai",
+	 "sat": "ᱛᱷᱟᱭ"
+	},
+	{
+	 "eng": "Tibetan",
+	 "sat": "ᱛᱤᱵᱮᱴᱟᱱ"
+	},
+	{
+	 "eng": "Tigre",
+	 "sat": "ᱴᱤᱜᱽᱨᱤ"
+	},
+	{
+	 "eng": "Tigrinya",
+	 "sat": "ᱴᱤᱜᱽᱨ"
+	},
+	{
+	 "eng": "Timne",
+	 "sat": "ᱴᱤᱢᱱᱮ"
+	},
+	{
+	 "eng": "Tiv",
+	 "sat": "ᱴᱤᱭ"
+	},
+	{
+	 "eng": "Tlingit",
+	 "sat": "ᱴᱞᱟᱭᱤᱴ"
+	},
+	{
+	 "eng": "Tok Pisin",
+	 "sat": "ᱴᱚᱠ ᱯᱤᱥᱤᱱ"
+	},
+	{
+	 "eng": "Tokelau",
+	 "sat": "ᱴᱚᱠᱮᱞᱟᱣ"
+	},
+	{
+	 "eng": "Tongan",
+	 "sat": "ᱴᱚᱝᱜᱟᱱ"
+	},
+	{
+	 "eng": "Tornedalen Finnish",
+	 "sat": "ᱴᱚᱨᱱᱮᱱᱰᱟᱞᱮᱱ ᱯᱷᱤᱱᱤᱥ"
+	},
+	{
+	 "eng": "Tsakhur",
+	 "sat": "ᱥᱟᱠᱷᱩᱣᱟᱨ"
+	},
+	{
+	 "eng": "Tsakonian",
+	 "sat": "ᱥᱟᱠᱚᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Tsimshian",
+	 "sat": "ᱥᱤᱢᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Tsonga",
+	 "sat": "ᱥᱚᱝᱟ"
+	},
+	{
+	 "eng": "Tswana",
+	 "sat": "ᱥᱣᱟᱱᱟ"
+	},
+	{
+	 "eng": "Tulu",
+	 "sat": "ᱴᱩᱞᱩ"
+	},
+	{
+	 "eng": "Tumbuka",
+	 "sat": "ᱴᱩᱢᱵᱩᱠᱟ"
+	},
+	{
+	 "eng": "Tunisian Arabic",
+	 "sat": "ᱴᱩᱱᱤᱥᱤᱭᱟᱱ ᱚᱹᱨᱵᱤ"
+	},
+	{
+	 "eng": "Turkish",
+	 "sat": "ᱛᱩᱨᱠᱤᱥ"
+	},
+	{
+	 "eng": "Turkmen",
+	 "sat": "ᱛᱩᱨᱠᱢᱮᱱ"
+	},
+	{
+	 "eng": "Turoyo",
+	 "sat": "ᱴᱩᱨᱭᱚ"
+	},
+	{
+	 "eng": "Tuvalu",
+	 "sat": "ᱴᱩᱣᱟᱞᱟᱱ"
+	},
+	{
+	 "eng": "Tuvinian",
+	 "sat": "ᱴᱩᱣᱤᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Twi",
+	 "sat": "ᱴᱣᱤ"
+	},
+	{
+	 "eng": "Tyap",
+	 "sat": "ᱴᱭᱟᱯ"
+	},
+	{
+	 "eng": "Udmurt",
+	 "sat": "ᱩᱰᱢᱩᱴ"
+	},
+	{
+	 "eng": "Ugaritic",
+	 "sat": "ᱩᱜᱟᱨᱤᱴᱤᱠ"
+	},
+	{
+	 "eng": "Ukrainian",
+	 "sat": "ᱭᱩᱠᱨᱮᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Umbundu",
+	 "sat": "ᱩᱢᱵᱩᱱᱰᱩ"
+	},
+	{
+	 "eng": "Unknown language",
+	 "sat": "ᱵᱟᱝ ᱵᱟᱲᱟᱭ ᱯᱟᱹᱨᱥᱤ"
+	},
+	{
+	 "eng": "Upper Sorbian",
+	 "sat": "ᱪᱮᱛᱟᱱ ᱛᱚᱨᱵᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Urdu",
+	 "sat": "ᱩᱨᱫᱩ"
+	},
+	{
+	 "eng": "Uyghur",
+	 "sat": "ᱩᱭᱜᱷᱩᱨ"
+	},
+	{
+	 "eng": "Uighur",
+	 "sat": "ᱩᱭᱜᱷᱩᱨ"
+	},
+	{
+	 "eng": "Uzbek",
+	 "sat": "ᱩᱡᱽᱵᱮᱠ"
+	},
+	{
+	 "eng": "Vai",
+	 "sat": "ᱵᱷᱟᱭ"
+	},
+	{
+	 "eng": "Venda",
+	 "sat": "ᱣᱮᱱᱰᱟ"
+	},
+	{
+	 "eng": "Venetian",
+	 "sat": "ᱣᱮᱱᱮᱴᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Veps",
+	 "sat": "ᱣᱮᱯᱮ"
+	},
+	{
+	 "eng": "Vietnamese",
+	 "sat": "ᱣᱮᱭᱮᱛᱱᱮᱢᱤᱡᱽ"
+	},
+	{
+	 "eng": "Volapük",
+	 "sat": "ᱵᱷᱚᱞᱟᱯᱩᱠ"
+	},
+	{
+	 "eng": "Võro",
+	 "sat": "ᱵᱷᱚᱨᱚ"
+	},
+	{
+	 "eng": "Votic",
+	 "sat": "ᱣᱚᱴᱤᱠ"
+	},
+	{
+	 "eng": "Vunjo",
+	 "sat": "ᱵᱷᱩᱱᱡᱚ"
+	},
+	{
+	 "eng": "Walloon",
+	 "sat": "ᱣᱟᱞᱩᱱ"
+	},
+	{
+	 "eng": "Walser",
+	 "sat": "ᱣᱟᱞᱮᱟᱹᱨ"
+	},
+	{
+	 "eng": "Waray",
+	 "sat": "ᱣᱟᱨᱟᱭ"
+	},
+	{
+	 "eng": "Warlpiri",
+	 "sat": "ᱣᱟᱨᱞᱯᱤᱨᱤ"
+	},
+	{
+	 "eng": "Washo",
+	 "sat": "ᱣᱟᱥᱚ"
+	},
+	{
+	 "eng": "Wayuu",
+	 "sat": "ᱣᱟᱭᱩ"
+	},
+	{
+	 "eng": "Welsh",
+	 "sat": "ᱣᱮᱞᱥ"
+	},
+	{
+	 "eng": "West Flemish",
+	 "sat": "ᱯᱟᱪᱮ ᱯᱷᱞᱮᱢᱤᱥ"
+	},
+	{
+	 "eng": "Western Balochi",
+	 "sat": "ᱯᱟᱪᱮ ᱵᱟᱞᱚᱪᱤ"
+	},
+	{
+	 "eng": "Western Frisian",
+	 "sat": "ᱯᱟᱪᱮ ᱯᱷᱨᱤᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Western Mari",
+	 "sat": "ᱯᱟᱪᱮ ᱢᱟᱨᱤ"
+	},
+	{
+	 "eng": "Wolaytta",
+	 "sat": "ᱣᱚᱞᱟᱭᱴᱟ"
+	},
+	{
+	 "eng": "Wolof",
+	 "sat": "ᱣᱚᱞᱚᱯᱷ"
+	},
+	{
+	 "eng": "Wu Chinese",
+	 "sat": "ᱣᱩ ᱪᱟᱭᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Xhosa",
+	 "sat": "ᱥᱚᱥᱟ"
+	},
+	{
+	 "eng": "Xiang Chinese",
+	 "sat": "ᱥᱤᱭᱟᱝ ᱪᱟᱭᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Yangben",
+	 "sat": "ᱭᱟᱝᱵᱮᱱ"
+	},
+	{
+	 "eng": "Yao",
+	 "sat": "ᱭᱟᱣ"
+	},
+	{
+	 "eng": "Yapese",
+	 "sat": "ᱭᱟᱯᱤᱥ"
+	},
+	{
+	 "eng": "Yemba",
+	 "sat": "ᱭᱮᱢᱵᱟ"
+	},
+	{
+	 "eng": "Yiddish",
+	 "sat": "ᱭᱤᱫᱤᱥ"
+	},
+	{
+	 "eng": "Yoruba",
+	 "sat": "ᱭᱚᱨᱩᱵᱟ"
+	},
+	{
+	 "eng": "Zapotec",
+	 "sat": "ᱡᱟᱯᱚᱴᱮᱠ"
+	},
+	{
+	 "eng": "Zarma",
+	 "sat": "ᱡᱟᱨᱢᱟ"
+	},
+	{
+	 "eng": "Zaza",
+	 "sat": "ᱡᱟᱡᱟ"
+	},
+	{
+	 "eng": "Zeelandic",
+	 "sat": "ᱡᱤᱞᱟᱱᱰᱤᱠ"
+	},
+	{
+	 "eng": "Zenaga",
+	 "sat": "ᱡᱮᱱᱟᱜᱟ"
+	},
+	{
+	 "eng": "Zhuang",
+	 "sat": "ᱡᱷᱩᱣᱟᱝ"
+	},
+	{
+	 "eng": "Zoroastrian Dari",
+	 "sat": "ᱡᱚᱨᱚᱣᱟᱥᱴᱨᱤᱭᱟᱱ ᱰᱟᱨᱤ"
+	},
+	{
+	 "eng": "Zulu",
+	 "sat": "ᱡᱩᱞᱩ"
+	},
+	{
+	 "eng": "Zuni",
+	 "sat": "ᱡᱩᱱᱤ"
+	},
+	{
+	 "eng": "Arabic",
+	 "sat": "ᱟᱹᱨᱵᱤ"
+	},
+	{
+	 "eng": "Perso-Arabic",
+	 "sat": "ᱯᱟᱹᱨᱥᱚᱼᱟᱹᱨᱵᱤ"
+	},
+	{
+	 "eng": "Armenian",
+	 "sat": "ᱟᱨᱢᱮᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Bangla",
+	 "sat": "ᱵᱟᱝᱜᱞᱟ"
+	},
+	{
+	 "eng": "Bopomofo",
+	 "sat": "ᱵᱚᱯᱚᱢᱚᱯᱷᱚ"
+	},
+	{
+	 "eng": "Cyrillic",
+	 "sat": "ᱥᱟᱭᱠᱨᱤᱞᱤᱠ"
+	},
+	{
+	 "eng": "Devanagari",
+	 "sat": "ᱫᱮᱣᱟᱹᱱᱟᱜᱟᱹᱨᱤ"
+	},
+	{
+	 "eng": "Ethiopic",
+	 "sat": "ᱮᱛᱷᱤᱭᱚᱯᱤᱠ"
+	},
+	{
+	 "eng": "Georgian",
+	 "sat": "ᱡᱤᱭᱚᱨᱡᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Greek",
+	 "sat": "ᱜᱽᱨᱤᱠ"
+	},
+	{
+	 "eng": "Gujarati",
+	 "sat": "ᱜᱩᱡᱨᱟᱴᱤ"
+	},
+	{
+	 "eng": "Gurmukhi",
+	 "sat": "ᱜᱩᱨᱩᱢᱩᱠᱷᱤ"
+	},
+	{
+	 "eng": "Han with Bopomofo",
+	 "sat": "ᱦᱟᱱ ᱥᱟᱶ ᱵᱚᱯᱚᱢᱚᱯᱷᱚ"
+	},
+	{
+	 "eng": "Hangul",
+	 "sat": "ᱦᱟᱱᱜᱩᱞ"
+	},
+	{
+	 "eng": "Han",
+	 "sat": "ᱦᱟᱱ"
+	},
+	{
+	 "eng": "Simplified",
+	 "sat": "ᱥᱤᱢᱯᱞᱤᱯᱷᱟᱭᱮᱰ"
+	},
+	{
+	 "eng": "Simplified Han",
+	 "sat": "ᱥᱤᱢᱯᱞᱤᱯᱷᱟᱭᱮᱰ ᱦᱟᱱ"
+	},
+	{
+	 "eng": "Traditional",
+	 "sat": "ᱴᱨᱟᱰᱤᱥᱚᱱᱟᱞ"
+	},
+	{
+	 "eng": "Traditional Han",
+	 "sat": "ᱴᱨᱟᱰᱤᱥᱚᱱᱟᱞ ᱦᱟᱱ"
+	},
+	{
+	 "eng": "Hebrew",
+	 "sat": "ᱦᱮᱵᱽᱨᱤᱣ"
+	},
+	{
+	 "eng": "Hiragana",
+	 "sat": "ᱦᱤᱨᱟᱜᱟᱹᱝᱜᱟ"
+	},
+	{
+	 "eng": "Jamo",
+	 "sat": "ᱡᱟᱢᱚ"
+	},
+	{
+	 "eng": "Japanese",
+	 "sat": "ᱡᱟᱯᱟᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Katakana",
+	 "sat": "ᱠᱟᱴᱟᱠᱟᱱᱟ"
+	},
+	{
+	 "eng": "Khmer",
+	 "sat": "ᱠᱷᱢᱮᱨ"
+	},
+	{
+	 "eng": "Kannada",
+	 "sat": "ᱠᱟᱹᱱᱟᱹᱰᱚ"
+	},
+	{
+	 "eng": "Korean",
+	 "sat": "ᱠᱚᱨᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Lao",
+	 "sat": "ᱞᱟᱣ"
+	},
+	{
+	 "eng": "Latin",
+	 "sat": "ᱞᱮᱴᱤᱱ"
+	},
+	{
+	 "eng": "Malayalam",
+	 "sat": "ᱢᱟᱞᱟᱭᱟᱞᱟᱢ"
+	},
+	{
+	 "eng": "Myanmar",
+	 "sat": "ᱢᱭᱟᱢᱟᱨ"
+	},
+	{
+	 "eng": "Odia",
+	 "sat": "ᱳᱰᱤᱭᱟ"
+	},
+	{
+	 "eng": "Sinhala",
+	 "sat": "ᱥᱤᱱᱦᱟᱞᱟ"
+	},
+	{
+	 "eng": "Tamil",
+	 "sat": "ᱛᱟᱢᱤᱞ"
+	},
+	{
+	 "eng": "Telugu",
+	 "sat": "ᱛᱮᱞᱜᱩ"
+	},
+	{
+	 "eng": "Thaana",
+	 "sat": "ᱛᱷᱟᱱᱟ"
+	},
+	{
+	 "eng": "Thai",
+	 "sat": "ᱛᱷᱟᱭ"
+	},
+	{
+	 "eng": "Tibetan",
+	 "sat": "ᱛᱤᱵᱮᱛᱟᱱ"
+	},
+	{
+	 "eng": "Inherited",
+	 "sat": "ᱤᱱᱦᱮᱨᱤᱴᱮᱰ"
+	},
+	{
+	 "eng": "Common",
+	 "sat": "ᱠᱚᱢᱚᱱ"
+	},
+	{
+	 "eng": "Adlam",
+	 "sat": "ᱟᱰᱞᱟᱢ"
+	},
+	{
+	 "eng": "Balinese",
+	 "sat": "ᱵᱟᱞᱤᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Bamum",
+	 "sat": "ᱵᱟᱢᱩᱱ"
+	},
+	{
+	 "eng": "Batak",
+	 "sat": "ᱵᱟᱹᱛᱟᱹᱠ"
+	},
+	{
+	 "eng": "Chakma",
+	 "sat": "ᱪᱷᱟᱠᱢᱟ"
+	},
+	{
+	 "eng": "Unified Canadian Aboriginal Syllabics",
+	 "sat": "ᱡᱩᱢᱤᱫ ᱠᱟᱱᱟᱰᱤᱭᱟᱹᱱ ᱮᱵᱚᱨᱤᱡᱤᱱᱟᱞ ᱥᱭᱞᱟᱵᱤᱠᱥ"
+	},
+	{
+	 "eng": "UCAS",
+	 "sat": "ᱭᱩ ᱥᱤ ᱮ ᱮᱥ"
+	},
+	{
+	 "eng": "Cham",
+	 "sat": "ᱪᱷᱟᱢ"
+	},
+	{
+	 "eng": "Cherokee",
+	 "sat": "ᱪᱷᱮᱨᱚᱠᱤ"
+	},
+	{
+	 "eng": "Gunjala Gondi",
+	 "sat": "ᱜᱩᱱᱡᱟᱞᱟ ᱜᱚᱱᱰᱤ"
+	},
+	{
+	 "eng": "Nyiakeng Puachue Hmong",
+	 "sat": "ᱱᱟᱭᱟᱠᱮᱝᱜ ᱯᱩᱣᱟᱪᱷᱮ ᱦᱚᱝ"
+	},
+	{
+	 "eng": "Javanese",
+	 "sat": "ᱡᱟᱣᱟᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Kayah Li",
+	 "sat": "ᱠᱟᱭᱟᱦ ᱞᱤ"
+	},
+	{
+	 "eng": "Lanna",
+	 "sat": "ᱞᱟᱱᱟ"
+	},
+	{
+	 "eng": "Lepcha",
+	 "sat": "ᱞᱮᱯᱪᱟ"
+	},
+	{
+	 "eng": "Limbu",
+	 "sat": "ᱞᱤᱢᱵᱩ"
+	},
+	{
+	 "eng": "Fraser",
+	 "sat": "ᱯᱷᱨᱟᱥᱟᱹᱨ"
+	},
+	{
+	 "eng": "Mandaean",
+	 "sat": "ᱢᱟᱱᱰᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Meitei Mayek",
+	 "sat": "ᱢᱮᱭᱛᱤ ᱢᱟᱭᱮᱠ"
+	},
+	{
+	 "eng": "Newa",
+	 "sat": "ᱱᱮᱣᱟ"
+	},
+	{
+	 "eng": "N’Ko",
+	 "sat": "ᱮᱱᱠᱚ"
+	},
+	{
+	 "eng": "Ol Chiki",
+	 "sat": "ᱚᱞ ᱪᱤᱠᱤ"
+	},
+	{
+	 "eng": "Osage",
+	 "sat": "ᱚᱥᱟᱜᱽ"
+	},
+	{
+	 "eng": "Pollard Phonetic",
+	 "sat": "ᱯᱚᱞᱟᱨᱰ ᱯᱷᱚᱱᱮᱴᱤᱠ"
+	},
+	{
+	 "eng": "Hanifi Rohingya",
+	 "sat": "ᱦᱟᱱᱤᱯᱷᱤ ᱨᱚᱦᱤᱭᱮᱝᱜᱟ"
+	},
+	{
+	 "eng": "Saurashtra",
+	 "sat": "ᱥᱟᱣᱨᱟᱥᱴᱨᱚ"
+	},
+	{
+	 "eng": "Sundanese",
+	 "sat": "ᱥᱩᱱᱰᱟᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Syloti Nagri",
+	 "sat": "ᱥᱟᱭᱞᱚᱛᱤ ᱱᱟᱜᱽᱨᱤ"
+	},
+	{
+	 "eng": "Syriac",
+	 "sat": "ᱥᱭᱨᱤᱭᱟᱠ"
+	},
+	{
+	 "eng": "Tai Le",
+	 "sat": "ᱛᱟᱭ ᱞᱮ"
+	},
+	{
+	 "eng": "New Tai Lue",
+	 "sat": "ᱱᱟᱶᱟ ᱛᱟᱭ ᱞᱣᱮ"
+	},
+	{
+	 "eng": "Tai Viet",
+	 "sat": "ᱛᱟᱭ ᱵᱷᱤᱭᱮᱛ"
+	},
+	{
+	 "eng": "Tifinagh",
+	 "sat": "ᱴᱤᱯᱷᱤᱱᱟᱜᱷ"
+	},
+	{
+	 "eng": "Vai",
+	 "sat": "ᱣᱟᱭ"
+	},
+	{
+	 "eng": "Wancho",
+	 "sat": "ᱣᱟᱱᱪᱩ"
+	},
+	{
+	 "eng": "Yi",
+	 "sat": "ᱣᱤ"
+	},
+	{
+	 "eng": "Caucasian Albanian",
+	 "sat": "ᱠᱟᱣᱠᱟᱥᱤᱭᱟᱹᱱ ᱟᱞᱵᱟᱱᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Ahom",
+	 "sat": "ᱟᱹᱦᱚᱢ"
+	},
+	{
+	 "eng": "Imperial Aramaic",
+	 "sat": "ᱤᱢᱯᱮᱨᱤᱭᱟᱹᱞ ᱟᱨᱟᱢᱟᱭᱤᱠ"
+	},
+	{
+	 "eng": "Avestan",
+	 "sat": "ᱟᱹᱣᱮᱥᱴᱟᱱ"
+	},
+	{
+	 "eng": "Bassa Vah",
+	 "sat": "ᱵᱟᱥᱟ ᱣᱟᱦ"
+	},
+	{
+	 "eng": "Bhaiksuki",
+	 "sat": "ᱵᱷᱟᱭᱠᱥᱩᱠᱤ"
+	},
+	{
+	 "eng": "Brahmi",
+	 "sat": "ᱵᱽᱨᱟᱦᱢᱦᱤ"
+	},
+	{
+	 "eng": "Buginese",
+	 "sat": "ᱵᱩᱜᱤᱱᱤᱡᱽ"
+	},
+	{
+	 "eng": "Buhid",
+	 "sat": "ᱵᱩᱦᱤᱫ"
+	},
+	{
+	 "eng": "Carian",
+	 "sat": "ᱠᱟᱨᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Chorasmian",
+	 "sat": "ᱠᱚᱨᱟᱥᱢᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Coptic",
+	 "sat": "ᱠᱚᱯᱴᱤᱠ"
+	},
+	{
+	 "eng": "Cypriot",
+	 "sat": "ᱥᱭᱯᱨᱚᱭᱤᱴ"
+	},
+	{
+	 "eng": "Dives Akuru",
+	 "sat": "ᱰᱤᱣᱮᱥ ᱟᱠᱩᱨᱩ"
+	},
+	{
+	 "eng": "Dogra",
+	 "sat": "ᱰᱚᱜᱽᱨᱟ"
+	},
+	{
+	 "eng": "Deseret",
+	 "sat": "ᱰᱮᱡᱟᱹᱨᱴ"
+	},
+	{
+	 "eng": "Duployan shorthand",
+	 "sat": "ᱰᱩᱯᱞᱚᱭᱟᱱ ᱥᱚᱛᱷᱞᱮᱸᱰ"
+	},
+	{
+	 "eng": "Egyptian hieroglyphs",
+	 "sat": "ᱤᱡᱤᱯᱴᱤᱭᱟᱱ ᱦᱟᱭᱨᱚᱜᱞᱤᱢᱯᱥ"
+	},
+	{
+	 "eng": "Elbasan",
+	 "sat": "ᱮᱞᱵᱟᱥᱟᱱ"
+	},
+	{
+	 "eng": "Elymaic",
+	 "sat": "ᱮᱞᱤᱢᱟᱭᱤᱠ"
+	},
+	{
+	 "eng": "Glagolitic",
+	 "sat": "ᱜᱞᱟᱜᱚᱞᱤᱴᱤᱠ"
+	},
+	{
+	 "eng": "Masaram Gondi",
+	 "sat": "ᱢᱟᱥᱟᱨᱟᱢ ᱜᱚᱱᱰᱤ"
+	},
+	{
+	 "eng": "Gothic",
+	 "sat": "ᱜᱚᱛᱷᱤᱠ"
+	},
+	{
+	 "eng": "Grantha",
+	 "sat": "ᱜᱽᱨᱟᱱᱛᱷᱟ"
+	},
+	{
+	 "eng": "Hanunoo",
+	 "sat": "ᱦᱟᱱᱩᱱᱚ"
+	},
+	{
+	 "eng": "Hatran",
+	 "sat": "ᱦᱟᱴᱨᱟᱱ"
+	},
+	{
+	 "eng": "Anatolian Hieroglyphs",
+	 "sat": "ᱟᱱᱟᱴᱚᱞᱤᱭᱟᱹᱱ ᱦᱟᱭᱨᱚᱡᱷᱟᱞᱠᱟᱣ"
+	},
+	{
+	 "eng": "Pahawh Hmong",
+	 "sat": "ᱯᱟᱦᱟᱣ ᱢᱚᱝ"
+	},
+	{
+	 "eng": "Old Hungarian",
+	 "sat": "ᱢᱟᱨᱮ ᱦᱟᱹᱱᱜᱟᱨᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Old Italic",
+	 "sat": "ᱢᱟᱨᱮ ᱤᱴᱟᱞᱤᱠ"
+	},
+	{
+	 "eng": "Kharoshthi",
+	 "sat": "ᱠᱷᱟᱨᱚᱥᱛᱤ"
+	},
+	{
+	 "eng": "Khojki",
+	 "sat": "ᱠᱷᱚᱡᱽᱠᱤ"
+	},
+	{
+	 "eng": "Khitan small script",
+	 "sat": "ᱠᱷᱤᱛᱟᱱ ᱢᱟᱨᱮ ᱪᱤᱠᱤ"
+	},
+	{
+	 "eng": "Kaithi",
+	 "sat": "ᱠᱟᱭᱛᱷᱤ"
+	},
+	{
+	 "eng": "Linear A",
+	 "sat": "ᱥᱤᱫᱷ ᱮ"
+	},
+	{
+	 "eng": "Linear B",
+	 "sat": "ᱥᱤᱫᱷ ᱵ"
+	},
+	{
+	 "eng": "Lycian",
+	 "sat": "ᱞᱟᱭᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Lydian",
+	 "sat": "ᱞᱭᱰᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Mahajani",
+	 "sat": "ᱢᱟᱦᱟᱡᱟᱱᱤ"
+	},
+	{
+	 "eng": "Makasar",
+	 "sat": "ᱢᱟᱠᱟᱥᱟᱨ"
+	},
+	{
+	 "eng": "Manichaean",
+	 "sat": "ᱢᱟᱱᱤᱪᱷᱟᱤᱭᱟᱱ"
+	},
+	{
+	 "eng": "Marchen",
+	 "sat": "ᱢᱟᱨᱪᱷᱮᱱ"
+	},
+	{
+	 "eng": "Medefaidrin",
+	 "sat": "ᱢᱮᱰᱮᱯᱷᱭᱰᱨᱤᱱ"
+	},
+	{
+	 "eng": "Mende",
+	 "sat": "ᱢᱮᱱᱰᱮ"
+	},
+	{
+	 "eng": "Meroitic Cursive",
+	 "sat": "ᱢᱮᱨᱚᱭᱮᱴᱤᱠ ᱠᱚᱨᱥᱣ"
+	},
+	{
+	 "eng": "Meroitic",
+	 "sat": "ᱢᱮᱨᱚᱤᱴᱤᱠ"
+	},
+	{
+	 "eng": "Modi",
+	 "sat": "ᱢᱚᱫᱤ"
+	},
+	{
+	 "eng": "Mongolian",
+	 "sat": "ᱢᱚᱱᱜᱚᱞᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Mro",
+	 "sat": "ᱢᱨᱚ"
+	},
+	{
+	 "eng": "Multani",
+	 "sat": "ᱢᱩᱞᱛᱟᱱᱤ"
+	},
+	{
+	 "eng": "Nandinagari",
+	 "sat": "ᱱᱟᱹᱱᱫᱤᱱᱟᱜᱤᱨᱤ"
+	},
+	{
+	 "eng": "Old North Arabian",
+	 "sat": "ᱢᱟᱨᱮ ᱮᱛᱚᱢ ᱟᱹᱨᱵᱤ"
+	},
+	{
+	 "eng": "Nabataean",
+	 "sat": "ᱱᱟᱹᱵᱟᱹᱴᱟᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Nüshu",
+	 "sat": "ᱱᱤᱥᱩ"
+	},
+	{
+	 "eng": "Ogham",
+	 "sat": "ᱚᱜᱽᱷᱟᱢ"
+	},
+	{
+	 "eng": "Orkhon",
+	 "sat": "ᱚᱨᱠᱷᱚᱱ"
+	},
+	{
+	 "eng": "Osmanya",
+	 "sat": "ᱚᱥᱢᱟᱱᱭᱟ"
+	},
+	{
+	 "eng": "Palmyrene",
+	 "sat": "ᱯᱟᱞᱢᱟᱭᱨᱤᱱ"
+	},
+	{
+	 "eng": "Pau Cin Hau",
+	 "sat": "ᱯᱟᱣ ᱪᱤᱱ ᱦᱟᱣ"
+	},
+	{
+	 "eng": "Old Permic",
+	 "sat": "ᱢᱟᱨᱮ ᱯᱟᱹᱨᱢᱤᱠ"
+	},
+	{
+	 "eng": "Phags-pa",
+	 "sat": "ᱯᱷᱟᱜᱥᱼᱯᱟ"
+	},
+	{
+	 "eng": "Inscriptional Pahlavi",
+	 "sat": "ᱤᱱᱥᱠᱨᱤᱯᱥᱚᱱᱟᱞ ᱯᱟᱦᱟᱞᱣᱤ"
+	},
+	{
+	 "eng": "Psalter Pahlavi",
+	 "sat": "ᱥᱟᱹᱞᱛᱟᱨ ᱯᱟᱦᱟᱞᱣᱤ"
+	},
+	{
+	 "eng": "Phoenician",
+	 "sat": "ᱯᱷᱚᱮᱱᱤᱥᱤᱭᱟᱱ"
+	},
+	{
+	 "eng": "Inscriptional Parthian",
+	 "sat": "ᱤᱱᱥᱠᱨᱤᱯᱥᱚᱱᱟᱞ ᱯᱟᱨᱛᱷᱤᱭᱟᱱ"
+	},
+	{
+	 "eng": "Rejang",
+	 "sat": "ᱨᱮᱡᱟᱝ"
+	},
+	{
+	 "eng": "Runic",
+	 "sat": "ᱨᱩᱱᱤᱠ"
+	},
+	{
+	 "eng": "Samaritan",
+	 "sat": "ᱥᱟᱢᱟᱨᱤᱴᱟᱱ"
+	},
+	{
+	 "eng": "Old South Arabian",
+	 "sat": "ᱢᱟᱨᱮ ᱠᱚᱭᱮᱸ ᱟᱹᱨᱵᱤ"
+	},
+	{
+	 "eng": "SignWriting",
+	 "sat": "ᱪᱤᱱᱦᱟᱹ ᱚᱞ"
+	},
+	{
+	 "eng": "Shavian",
+	 "sat": "ᱥᱟᱣᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Sharada",
+	 "sat": "ᱥᱟᱨᱫᱟ"
+	},
+	{
+	 "eng": "Siddham",
+	 "sat": "ᱥᱤᱫᱷᱟᱹᱢ"
+	},
+	{
+	 "eng": "Khudawadi",
+	 "sat": "ᱠᱷᱩᱰᱟᱣᱟᱰᱤ"
+	},
+	{
+	 "eng": "Sogdian",
+	 "sat": "ᱥᱚᱜᱽᱰᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Old Sogdian",
+	 "sat": "ᱢᱟᱨᱮ ᱥᱚᱜᱽᱰᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Sora Sompeng",
+	 "sat": "ᱥᱚᱨᱟ ᱥᱚᱢᱯᱮᱝ"
+	},
+	{
+	 "eng": "Soyombo",
+	 "sat": "ᱥᱚᱭᱚᱢᱵᱚ"
+	},
+	{
+	 "eng": "Tagbanwa",
+	 "sat": "ᱴᱟᱜᱽᱵᱟᱱᱣᱟ"
+	},
+	{
+	 "eng": "Takri",
+	 "sat": "ᱴᱟᱠᱨᱤ"
+	},
+	{
+	 "eng": "Tangut",
+	 "sat": "ᱴᱟᱝᱜᱩᱴ"
+	},
+	{
+	 "eng": "Tagalog",
+	 "sat": "ᱴᱟᱜᱟᱞᱚᱜ"
+	},
+	{
+	 "eng": "Tirhuta",
+	 "sat": "ᱛᱤᱨᱦᱩᱴᱟ"
+	},
+	{
+	 "eng": "Ugaritic",
+	 "sat": "ᱩᱜᱟᱨᱤᱴᱤᱠ"
+	},
+	{
+	 "eng": "Varang Kshiti",
+	 "sat": "ᱨᱟᱝ ᱠᱷᱭᱛᱤ"
+	},
+	{
+	 "eng": "Old Persian",
+	 "sat": "ᱢᱟᱨᱮ ᱯᱟᱹᱨᱥᱤᱭᱟᱹᱱ"
+	},
+	{
+	 "eng": "Sumero-Akkadian Cuneiform",
+	 "sat": "ᱥᱩᱢᱮᱨᱚᱼᱟᱠᱟᱰᱤᱭᱟᱹᱱ ᱠᱩᱱᱮᱭᱯᱷᱚᱨᱢ"
+	},
+	{
+	 "eng": "S-A Cuneiform",
+	 "sat": "ᱮᱥᱼᱮ ᱠᱩᱱᱮᱭᱯᱷᱚᱨᱢ"
+	},
+	{
+	 "eng": "Yezidi",
+	 "sat": "ᱭᱮᱡᱤᱫᱤ"
+	},
+	{
+	 "eng": "Zanabazar Square",
+	 "sat": "ᱡᱟᱱᱟᱵᱟᱡᱟᱨ ᱥᱠᱣᱮᱨ"
+	},
+	{
+	 "eng": "Afaka",
+	 "sat": "ᱟᱯᱷᱟᱠᱟ"
+	},
+	{
+	 "eng": "Nastaliq",
+	 "sat": "ᱱᱟᱥᱴᱟᱞᱤᱠ"
+	},
+	{
+	 "eng": "Blissymbols",
+	 "sat": "ᱥᱞᱤᱥᱭᱢᱵᱚᱞᱥ"
+	},
+	{
+	 "eng": "Braille",
+	 "sat": "ᱵᱽᱨᱮᱞᱤ"
+	},
+	{
+	 "eng": "Cirth",
+	 "sat": "ᱥᱤᱨᱛᱷ"
+	},
+	{
+	 "eng": "Old Church Slavonic Cyrillic",
+	 "sat": "ᱢᱟᱨᱮ ᱪᱚᱨᱪ ᱥᱞᱟᱣᱚᱱᱤᱠ ᱥᱭᱨᱤᱞᱤᱠ"
+	},
+	{
+	 "eng": "Egyptian demotic",
+	 "sat": "ᱤᱡᱤᱯᱴᱤᱭᱟᱱ ᱰᱮᱢᱚᱱᱤᱠ"
+	},
+	{
+	 "eng": "Egyptian hieratic",
+	 "sat": "ᱤᱡᱤᱯᱴᱤᱭᱟᱱ ᱦᱟᱭᱨᱮᱴᱤᱠ"
+	},
+	{
+	 "eng": "Georgian Khutsuri",
+	 "sat": "ᱡᱤᱭᱚᱨᱡᱤᱭᱟᱹᱱ ᱠᱷᱩᱴᱥᱩᱨᱤ"
+	},
+	{
+	 "eng": "Japanese syllabaries",
+	 "sat": "ᱡᱟᱯᱟᱱᱤᱡᱽ ᱥᱭᱞᱟᱵᱟᱨᱤᱥ"
+	},
+	{
+	 "eng": "Indus",
+	 "sat": "ᱤᱱᱰᱚᱥ"
+	},
+	{
+	 "eng": "Jurchen",
+	 "sat": "ᱡᱩᱨᱪᱷᱮᱱ"
+	},
+	{
+	 "eng": "Kpelle",
+	 "sat": "ᱯᱮᱞᱮ"
+	},
+	{
+	 "eng": "Fraktur Latin",
+	 "sat": "ᱯᱷᱨᱟᱠᱛᱩᱨ ᱞᱮᱴᱤᱱ"
+	},
+	{
+	 "eng": "Gaelic Latin",
+	 "sat": "ᱜᱮᱞᱤᱠ ᱞᱮᱴᱤᱱ"
+	},
+	{
+	 "eng": "Loma",
+	 "sat": "ᱞᱚᱢᱟ"
+	},
+	{
+	 "eng": "Mayan hieroglyphs",
+	 "sat": "ᱢᱟᱭᱟᱱ ᱦᱟᱭᱨᱚᱜᱞᱤᱢᱯᱥ"
+	},
+	{
+	 "eng": "Moon",
+	 "sat": "ᱢᱩᱱ"
+	},
+	{
+	 "eng": "Naxi Geba",
+	 "sat": "ᱱᱟᱠᱥᱤ ᱜᱮᱵᱟ"
+	},
+	{
+	 "eng": "Book Pahlavi",
+	 "sat": "ᱵᱩᱠ ᱯᱟᱦᱞᱟᱹᱣᱤ"
+	},
+	{
+	 "eng": "Zawgyi",
+	 "sat": "ᱡᱟᱣᱜᱟᱭ"
+	},
+	{
+	 "eng": "Rongorongo",
+	 "sat": "ᱨᱚᱝᱜᱚᱨᱚᱝᱜᱚ"
+	},
+	{
+	 "eng": "Sarati",
+	 "sat": "ᱥᱟᱨᱚᱛᱤ"
+	},
+	{
+	 "eng": "Estrangelo Syriac",
+	 "sat": "ᱮᱥᱴᱨᱟᱝᱜᱮᱞᱚ ᱥᱭᱨᱤᱞᱤᱠ"
+	},
+	{
+	 "eng": "Western Syriac",
+	 "sat": "ᱯᱟᱪᱮ ᱥᱭᱨᱤᱭᱟᱠ"
+	},
+	{
+	 "eng": "Eastern Syriac",
+	 "sat": "ᱥᱟᱢᱟᱝ ᱥᱭᱨᱤᱭᱟᱠ"
+	},
+	{
+	 "eng": "Tengwar",
+	 "sat": "ᱴᱮᱝᱣᱟᱨ"
+	},
+	{
+	 "eng": "Visible Speech",
+	 "sat": "ᱧᱮᱞ ᱨᱚᱲ"
+	},
+	{
+	 "eng": "Woleai",
+	 "sat": "ᱣᱚᱞᱮᱭ"
+	},
+	{
+	 "eng": "Mathematical Notation",
+	 "sat": "ᱢᱮᱛᱷᱢᱮᱴᱤᱠᱟᱞ ᱱᱚᱴᱮᱥᱚᱱ"
+	},
+	{
+	 "eng": "Emoji",
+	 "sat": "ᱤᱢᱚᱡᱤ"
+	},
+	{
+	 "eng": "Symbols",
+	 "sat": "ᱪᱤᱱᱦᱟᱹ"
+	},
+	{
+	 "eng": "Unwritten",
+	 "sat": "ᱵᱟᱝ ᱚᱞ"
+	},
+	{
+	 "eng": "Unknown Script",
+	 "sat": "ᱵᱟᱝ ᱵᱟᱲᱟᱭ ᱪᱤᱠᱤ"
+	},
+	{
+	 "eng": "Grammar",
+	 "sat": "ᱨᱚᱱᱚᱲ"
 	}
-]
+   ]
